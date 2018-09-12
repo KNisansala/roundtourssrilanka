@@ -4569,9 +4569,7 @@ aside .booking-form .form-group .booking-confirm {
 
 @media(max-width :960px )  
 {
-    .view-all {
-        margin-left: 90px;
-    }
+    
     .header-top-right .book-btn a {
         font-size: 14px;
         padding: 8px 16px;
