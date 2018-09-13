@@ -38,8 +38,8 @@
                         <ul class="main-menu text-right">
                             <li class="active"><a href="index.php">Home</a></li>
                             <li><a href="about-us.php">About Us</a></li>
-                            <li><a href="#">Tour Packages</a></li>
-                            <li><a href="#">Destination</a></li>
+                            <li><a href="tour-packages.php">Tour Packages</a></li>
+                            <li><a href="destination.php">Destination</a></li>
                             <li><a href="#">Photo Album</a></li>
                             <li><a href="#">Guest Comment</a></li>
                             <li><a href="contact.php">Contact Us</a></li>
