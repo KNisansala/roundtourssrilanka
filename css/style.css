@@ -196,7 +196,7 @@ body {
 /*=====basce css end here=========*/
 /*============================== theme buttons css goes here ===============================*/
 .travel-primary-btn, .travel-primary-btn-sm, .read-more, .view-all,.quick-shop, .thailan-btn, .travel-primary-btn-2 {
-    background: #37b721;
+    background: #214db7;
     display: inline-block;
     padding: 12px 29px !important;
     border-radius: 3px;
@@ -215,7 +215,7 @@ body {
 }
 .travel-booking-btn, .travel-booking-btn-lg {
     display: inline-block;
-    background: #37b721;
+    background: #214db7;
     padding: 7px 15px;
     color: #fefefe;
     border-radius: 4px;
@@ -225,7 +225,7 @@ body {
 }
 .travel-viewall-btn {
     display: inline-block;
-    background: #37b721;
+    background: #214db7;
     padding: 7px 15px;
     color: #fefefe;
     border-radius: 4px;
@@ -297,7 +297,7 @@ header {
 }
 .header-top-area .header-top-left .header-top-contact li i {
     margin-right: 10px;
-    color: #37b721;
+    color: #214db7;
     font-size: 20px;
 }
 .header-top-area-2 {
@@ -307,7 +307,7 @@ header {
     display: inline-block;
     padding: 16px;
     float: right;
-    background: #37b721;
+    background: #214db7;
     transition: all ease-in-out 0.3s;
 }
 .header-top-right .book-btn a {
@@ -343,7 +343,7 @@ header {
     position: absolute;
     width: 100%;
     height: 2px;
-    background: #37b721;
+    background: #214db7;
     content: '';
     left: 0;
     right: 0;
@@ -387,7 +387,7 @@ header {
     transition: all ease-in-out 0.3s;
 }
 .header-bottom-area .main-menu > li ul.dropdown li a:hover {
-    color: #37b721;
+    color: #214db7;
 }
 .header-bottom-area .main-menu > li:hover ul.dropdown {
     opacity: 1;
@@ -396,14 +396,14 @@ header {
     transform: scaleY(1);
 }
 .header-bottom-area .main-menu > li:hover > a {
-    color: #37b721;
+    color: #214db7;
 }
 .header-bottom-area .main-menu > li:hover a:before {
     opacity: 1;
     visibility: visible;
 }
 .header-bottom-area .main-menu > li.active a {
-    color: #37b721;
+    color: #214db7;
 }
 .header-bottom-area .main-menu > li.active a:before {
     width: 100%;
@@ -436,7 +436,7 @@ header {
     min-height: 1000px;
 }
 .slider-area .tparrows {
-    background: #37b721 !important;
+    background: #214db7 !important;
     transition: all ease-in-out 0.3s !important;
     width: 53px !important;
     height: 53px !important;
@@ -502,7 +502,7 @@ header {
     position: absolute;
     width: 0;
     height: 2px;
-    background: #37b721;
+    background: #214db7;
     content: '';
     left: 0;
     right: 0;
@@ -518,7 +518,7 @@ header {
     margin-top: -10px;
 }
 .tabbased-search-area .tabbable-menu .tab-menu li a:hover {
-    color: #37b721;
+    color: #214db7;
 }
 .tabbased-search-area .tabbable-menu .tab-menu li:hover a:before {
     opacity: 1;
@@ -526,7 +526,7 @@ header {
     width: 100%;
 }
 .tabbased-search-area .tabbable-menu .tab-menu li.active a {
-    color: #37b721;
+    color: #214db7;
 }
 .tabbased-search-area .tabbable-menu .tab-menu li.active a:before {
     width: 100%;
@@ -614,7 +614,7 @@ header {
     float: left;
 }
 .tabbased-search-area .tab-content .hotels-form .searc-btn-7 button, .tabbased-search-area .tab-content .flights-form .searc-btn-7 button {
-    background: #37b721 none repeat scroll 0 0;
+    background: #214db7 none repeat scroll 0 0;
     border: medium none;
     border-radius: 0 5px 5px 0;
     color: #ffffff;
@@ -808,7 +808,7 @@ header {
     font-weight: 500;
 }
 .popular-packages .single-package .package-content p span {
-    color: #37b721;
+    color: #214db7;
     font-weight: 600;
 }
 .popular-packages .single-package .package-calto-action {
@@ -836,7 +836,7 @@ header {
     background: #f17b37;
 }
 .popular-packages .single-package:hover .package-content h3 {
-    color: #37b721;
+    color: #214db7;
 }
 /*===================================================== 06.Counter section css goes here =======================================================*/
 .count-down-bg {
@@ -861,7 +861,7 @@ header {
     color: #f17b37;
 }
 .count-down-bg .count-down-titile h3 span.color-two {
-    color: #37b721;
+    color: #214db7;
 }
 .count-down-bg .count-timer .time-wrapper p {
     color: #ffffff;
@@ -969,7 +969,7 @@ header {
     visibility: visible;
 }
 .destination-slider-active .single-destination:hover .des-city a {
-    color: #37b721;
+    color: #214db7;
 }
 /*===================================================== 08.Choose us strat section css goes here =======================================================*/
 .trabble-bg {
@@ -1002,7 +1002,7 @@ header {
     margin-top: -5px;
 }
 .single-travel .travel-number span {
-    color: #37b721;
+    color: #214db7;
     font-weight: 500;
     font-size: 33px;
 }
@@ -1100,7 +1100,7 @@ header {
     transform: scale(1.05);
 }
 .single-travel-blog:hover .blog-post-content a {
-    color: #37b721;
+    color: #214db7;
 }
 /*===================================================== 10.Testimonial section css goes here =======================================================*/
 .testimonial-area {
@@ -1147,14 +1147,14 @@ header {
     padding: 0 13%;
 }
 .testimonial-area .block-text .testimonial-message .message::before {
-    content: url("../images/icon/quote-left.png");
+    /*content: url("../images/icon/quote-left.png");*/
     left: 3px;
     position: absolute;
     top: -30px;
     z-index: 2;
 }
 .testimonial-area .block-text .testimonial-message .message::after {
-    content: url("../images/icon/quote-righ.png");
+    /*content: url("../images/icon/quote-righ.png");*/
     left: auto;
     position: absolute;
     right: 4px;
@@ -1227,7 +1227,7 @@ header {
     font-weight: 500;
 }
 .incredible-places .single-place figure figcaption h4 span {
-    color: #37b721;
+    color: #214db7;
 }
 .incredible-places .single-place:hover figcaption {
     left: 30px;
@@ -1241,7 +1241,7 @@ header {
 }
 /*===================================================== 12.subscribe area section css goes here =======================================================*/
 .subscribe-bg {
-    background: #37b721 url("../images/bgimage/subscribe.jpg") no-repeat scroll center center/cover;
+    background: #214db7 url("../images/bgimage/subscribe.jpg") no-repeat scroll center center/cover;
     position: relative;
 }
 .subscribe-bg:before {
@@ -1341,7 +1341,7 @@ header {
     text-transform: capitalize;
 }
 .footer-area .single-footer .single-recent-post .recent-post li a .post-content span {
-    color: #37b721;
+    color: #214db7;
     font-size: 12px;
 }
 .footer-area .single-footer .footer-gallery li {
@@ -1472,7 +1472,7 @@ header {
     background: #7a7c7d;
 }
 .footer-area .single-footer .footer-contact-form form .footer-form-element button {
-    background: #37b721 none repeat scroll 0 0;
+    background: #214db7 none repeat scroll 0 0;
     border: medium none;
     bottom: 2px;
     color: #ffffff;
@@ -1542,7 +1542,7 @@ header {
     font-weight: 400;
 }
 .footer-area .footer-bottom .copyright p span {
-    color: #37b721;
+    color: #214db7;
     font-size: 13px;
     font-weight: 500;
     text-transform: capitalize;
@@ -1616,7 +1616,7 @@ header {
     z-index: -1;
 }
 .slider-area-2 .tparrows, .slider-area-3 .tparrows {
-    background: #37b721 !important;
+    background: #214db7 !important;
     transition: all ease-in-out 0.3s !important;
     width: 53px !important;
     height: 53px !important;
@@ -1688,7 +1688,7 @@ header {
     display: inline-block;
 }
 .tabbased-search-area-2 .tab-content-2 .search-btn-2 button {
-    background: #37b721 none repeat scroll 0 0;
+    background: #214db7 none repeat scroll 0 0;
     border: medium none;
     border-radius: 2px;
     color: #ffffff;
@@ -1827,7 +1827,7 @@ header {
     position: relative;
 }
 .single-package-carasoul .package-location span {
-    background: #37b721 none repeat scroll 0 0;
+    background: #387be0cc none repeat scroll 0 0;
     bottom: 0;
     color: #ffffff;
     font-size: 20px;
@@ -1878,7 +1878,7 @@ header {
     color: #454545;
 }
 .single-package-carasoul .package-details .package-ratings-review {
-    border-top: 1px solid #37b721;
+    border-top: 1px solid #214db7;
     padding: 14px 0;
     position: relative;
 }
@@ -1901,7 +1901,7 @@ header {
     color: #727272;
 }
 .single-package-carasoul .package-long-btn {
-    background: #37b721 none repeat scroll 0 0;
+    background: #214db7 none repeat scroll 0 0;
     display: block;
     width: 100%;
     text-align: center;
@@ -1925,10 +1925,10 @@ header {
     bottom: -1px;
 }
 .single-package-carasoul:hover .package-location span {
-    background: #f17b37;
+    background: #214db7;
 }
 .owl-nav div {
-    background: #37b721 none repeat scroll 0 0;
+    background: #214db7 none repeat scroll 0 0;
     color: #ffffff;
     font-size: 20px;
     height: 50px;
@@ -1972,11 +1972,11 @@ header {
     text-decoration: none;
 }
 .popular-country .destination-tab-menu .destination-menu li a:hover {
-    background: #37b721;
+    background: #214db7;
     color: #ffffff;
 }
 .popular-country .destination-tab-menu .destination-menu li.active a {
-    background: #37b721;
+    background: #214db7;
     color: #ffffff;
 }
 .popular-country .destination-countrys figure {
@@ -2037,7 +2037,7 @@ header {
     bottom: 0;
 }
 .popular-country .destination-countrys figure:hover figcaption .city-name span {
-    color: #37b721;
+    color: #214db7;
 }
 .popular-country .destination-countrys figure:hover figcaption .city-name .tower-bridge li {
     color: #ffffff;
@@ -2093,7 +2093,7 @@ header {
 }
 .discount-bg .discount-content h4 span {
     font-size: 25px;
-    color: #37b721;
+    color: #214db7;
     font-weight: 500;
 }
 .discount-bg .discount-content .discount-btn {
@@ -2111,7 +2111,7 @@ header {
     width: 100%;
 }
 .offer-package .single-offer .single-offer-image span {
-    background: #37b721 none repeat scroll 0 0;
+    background: #214db7 none repeat scroll 0 0;
     color: #ffffff;
     display: inline-block;
     font-weight: 600;
@@ -2143,7 +2143,7 @@ header {
     font-weight: 500;
 }
 .offer-package .single-offer .single-offer-details .offer-title p span {
-    color: #37b721;
+    color: #214db7;
 }
 .offer-package .single-offer .single-offer-details .offer-details p {
     font-weight: 400;
@@ -2236,13 +2236,13 @@ header {
     transition: all ease-in-out 0.3s;
 }
 .blog-2 .single-travel-blog:hover .read-more-btn a {
-    color: #37b721;
+    color: #214db7;
 }
 .blog-2 .single-travel-blog:hover .blog-post-content .post-social-2 li a {
     color: #454545;
 }
 .blog-2 .single-travel-blog:hover .blog-post-content .post-social-2 li a i {
-    color: #37b721;
+    color: #214db7;
 }
 /*===================================================== 25.home version 2 subscribe section css goes here =======================================================*/
 .subscribe-area-2 {
@@ -2312,14 +2312,14 @@ header {
     font-weight: 500;
 }
 .grid-3 figure figcaption h4 span {
-    color: #37b721;
+    color: #214db7;
 }
 .grid-3 figure figcaption a {
     top: -25px;
     position: relative;
 }
 .grid-3 figure figcaption a .fa.fa-pencil {
-    background: #37b721 none repeat scroll 0 0;
+    background: #214db7 none repeat scroll 0 0;
     border-radius: 100%;
     color: #fff;
     display: block;
@@ -2350,10 +2350,10 @@ header {
     color: #454545;
 }
 .header-area-style-3 .header-bottom-area-2 .main-menu li a:hover {
-    color: #37b721;
+    color: #214db7;
 }
 .header-area-style-3 .header-bottom-area-2 .main-menu li.active a {
-    color: #37b721;
+    color: #214db7;
 }
 .header-area-style-3 .header-bottom-area-2 .main-menu .dropdown {
     top: 100% !important;
@@ -2369,7 +2369,7 @@ header {
 }
 /*===================================================== 28.home version 3 herounit section css goes here =======================================================*/
 .book-online a {
-    background: #37b721 none repeat scroll 0 0;
+    background: #214db7 none repeat scroll 0 0;
     border-radius: 5px;
     color: #fff;
     display: block;
@@ -2423,7 +2423,7 @@ header {
     position: relative;
 }
 .herounit-bg .tabbased-search-3 .tab-menu-item-3 .tab-menu-3 li:before {
-    background: #37b721 none repeat scroll 0 0;
+    background: #214db7 none repeat scroll 0 0;
     content: "";
     height: 1px;
     position: absolute;
@@ -2479,7 +2479,7 @@ header {
     padding: 12px;
 }
 .herounit-bg .tabbased-search-3 .tab-content-3 .hotels-form-3 .search-btn-3 {
-    background: #37b721 none repeat scroll 0 0;
+    background: #214db7 none repeat scroll 0 0;
     border: medium none;
     border-radius: 3px;
     color: #ffffff;
@@ -2629,7 +2629,7 @@ header {
 }
 .single-discount-deal figure figcaption .circle-offer {
     display: inline-block;
-    border: 1px solid #37b721;
+    border: 1px solid #214db7;
     border-radius: 100%;
     width: 100px;
     height: 100px;
@@ -2654,7 +2654,7 @@ header {
     font-size: 16px;
 }
 .single-discount-deal figure figcaption .offer-details-2 p span {
-    color: #37b721;
+    color: #214db7;
 }
 .single-discount-deal:hover figure img {
     transform: scale(1.1);
@@ -2668,7 +2668,7 @@ header {
 }
 /*===================================================== 31.Video section css goes here =======================================================*/
 .video-play {
-    background: #37b721 url("../images/bgimage/video.jpg") no-repeat scroll center center/cover;
+    background: #214db7 url("../images/bgimage/video.jpg") no-repeat scroll center center/cover;
     height: 600px;
     position: relative;
 }
@@ -2718,7 +2718,7 @@ header {
     width: 73px;
     height: 73px;
     text-align: center;
-    background: #37b721;
+    background: #214db7;
     color: #ffffff;
     font-size: 25px;
     padding-top: 0;
@@ -2745,7 +2745,7 @@ header {
     position: relative;
 }
 .video-play .video-content .video-play-btn a i span {
-    background: #37b721;
+    background: #214db7;
     border-radius: 100px;
     height: 130%;
     left: -15%;
@@ -2819,7 +2819,7 @@ header {
 .single-product .product-content .product-action li a {
     font-size: 14px;
     font-weight: 500;
-    color: #37b721;
+    color: #214db7;
     text-transform: capitalize;
 }
 .single-product .product-content .product-action li:last-child {
@@ -2888,7 +2888,7 @@ header {
 .thailand-trip .starting .starting-elemnts span {
     font-size: 20px;
     font-weight: 600;
-    color: #37b721;
+    color: #214db7;
 }
 .thailand-trip .starting:before {
     background: #ffffff none repeat scroll 0 0;
@@ -2911,7 +2911,7 @@ header {
     overflow: hidden;
 }
 .top-testimonial-image .slider-nav-two .slick-slide:before {
-    background: #37b721;
+    background: #214db7;
     border-radius: 100%;
     content: "";
     height: 87px;
@@ -2974,7 +2974,7 @@ header {
 .block-text .single-box .client-bio h3 {
     font-size: 20px;
     font-weight: 600;
-    color: #37b721;
+    color: #214db7;
 }
 .block-text .single-box .client-bio span {
     color: #727272;
@@ -3014,7 +3014,7 @@ header {
     bottom: -22px !important;
 }
 .tabbased-search-area-4 .tabbable-menu .tab-menu li:hover a {
-    color: #37b721 !important;
+    color: #214db7 !important;
 }
 .tabbased-search-area-4 .tabbable-menu .tab-menu li.active a:before {
     width: 100%;
@@ -3036,7 +3036,7 @@ header {
 }
 /*===================================================== 39.Home version 4 discount package 4 section start here =======================================================*/
 .discount-package-4 {
-    background: #37b721 url("../images/bgimage/discount.jpg") no-repeat scroll center center/cover;
+    background: #214db7 url("../images/bgimage/discount.jpg") no-repeat scroll center center/cover;
     padding: 100px 0;
     position: relative;
 }
@@ -3074,7 +3074,7 @@ header {
     transition: all ease-in-out 0.5s;
 }
 .discount-package-4 .discount-package-4-contents .discount-package-4-btn a:hover {
-    background: #37b721;
+    background: #214db7;
     color: #ffffff;
 }
 /*===================================================== 40.Home version 4 top destination section start here =======================================================*/
@@ -3125,7 +3125,7 @@ header {
 }
 /*===================================================== 41.Home version 4 counter section start here =======================================================*/
 .achievment-bg {
-    background: #37b721 url("../images/bgimage/achivment.jpg") repeat scroll 0 0;
+    background: #214db7 url("../images/bgimage/achivment.jpg") repeat scroll 0 0;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -3153,7 +3153,7 @@ header {
 .single-counter .counter-elements .counter {
     font-size: 30px;
     font-weight: 600;
-    color: #37b721;
+    color: #214db7;
 }
 .single-counter .counter-elements span {
     font-size: 18px;
@@ -3195,7 +3195,7 @@ header {
     font-weight: 600;
 }
 .single-hotels .hotel-description p span {
-    color: #37b721;
+    color: #214db7;
     font-weight: 600;
 }
 .single-hotels .hotel-description .hotel-rating i {
@@ -3250,7 +3250,7 @@ header {
     background: transparent none repeat scroll 0 0;
     border: none;
     display: inline-block;
-    background: #37b721;
+    background: #214db7;
     padding: 8px 20px;
     border-radius: 3px;
     color: #ffffff;
@@ -3302,10 +3302,10 @@ header {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .best-services-area .single-best-services:hover .services-content h4 {
-    color: #37b721;
+    color: #214db7;
 }
 .best-services-area .single-best-services:hover .services-content a {
-    color: #37b721;
+    color: #214db7;
 }
 /*===================================================== 47.Home version 5 discount section start here =======================================================*/
 .discount-package-5 {
@@ -3395,7 +3395,7 @@ header {
 }
 .top-destination-area-5 .single-destionation-5 .destination-5-description > p span {
     font-weight: 600;
-    color: #37b721;
+    color: #214db7;
 }
 .top-destination-area-5 .single-destionation-5 .destination-5-description .rating-review-5 {
     padding-bottom: 30px;
@@ -3427,7 +3427,7 @@ header {
 }
 /*===================================================== 49.Home version 5 testimonial 5 section start here =======================================================*/
 .testimonial-area-5 {
-    background: #37b721 url("../images/bgimage/snow.jpg") no-repeat scroll center center/cover;
+    background: #214db7 url("../images/bgimage/snow.jpg") no-repeat scroll center center/cover;
     position: relative;
     overflow: hidden;
     padding: 100px 0;
@@ -3488,7 +3488,7 @@ header {
     width: 14px;
 }
 .testimonial-area-5 .owl-dots .owl-dot.active span {
-    background: #37b721;
+    background: #214db7;
 }
 .testimonial-area-5 .owl-stage {
     transition: 0.9s !important;
@@ -3550,7 +3550,7 @@ header {
 }
 /*===================================================== 51.Home version 5 discount 5 hotel section start here =======================================================*/
 .discount-package-6 {
-    background: #37b721 url("../images/bgimage/discount6.jpg") no-repeat scroll center center/cover;
+    background: #214db7 url("../images/bgimage/discount6.jpg") no-repeat scroll center center/cover;
     padding: 190px 0;
     position: relative;
 }
@@ -3642,7 +3642,7 @@ header {
     border-radius: 3px;
 }
 .blog-contents-version-one .pagination > .active > a, .blog-contents-version-one .pagination > .active > a:focus, .blog-contents-version-one .pagination > .active > a:hover, .blog-contents-version-one .pagination > .active > span, .blog-contents-version-one .pagination > .active > span:focus, .blog-contents-version-one .pagination > .active > span:hover {
-    background-color: #37b721;
+    background-color: #214db7;
     border-color: transparent;
     color: #fff;
     cursor: default;
@@ -3650,7 +3650,7 @@ header {
     border-radius: 3px;
 }
 .blog-contents-version-one .pagination > li:hover > a {
-    background: #37b721;
+    background: #214db7;
     color: #ffffff;
 }
 .blog-contents-version-one .pagination > li:first-child > a, .blog-contents-version-one .pagination > li:first-child > span {
@@ -3709,7 +3709,7 @@ header {
 .single-package-details .package-content li:last-child {
     float: right;
     font-size: 30px;
-    color: #37b721;
+    color: #214db7;
     font-weight: 500;
     padding: 10px 0;
 }
@@ -3733,11 +3733,11 @@ header {
     transition: all ease-out 0.5s;
 }
 .package-tab-menu .package-tab-menu li a:hover {
-    background: #37b721;
+    background: #214db7;
     color: #ffffff;
 }
 .package-tab-menu .package-tab-menu li.active a {
-    background: #37b721;
+    background: #214db7;
     color: #ffffff;
 }
 .tab-content .tour-description {
@@ -3769,7 +3769,7 @@ header {
     padding: 5px 0;
 }
 .tab-content .chosse-packge .packaging-contents li i {
-    color: #37b721;
+    color: #214db7;
     margin-right: 10px;
 }
 .tab-content .additional-info {
@@ -3793,7 +3793,7 @@ header {
     line-height: 40px;
 }
 .tab-content .additional-info .info-list p span i, .tab-content .additional-info .info-details p span i {
-    color: #37b721;
+    color: #214db7;
     margin-right: 15px;
 }
 .related-tour {
@@ -3847,7 +3847,7 @@ aside .booking-form .form-group .check-availability, aside .booking-form .form-g
     width: 100%;
 }
 aside .booking-form .form-group .booking-confirm {
-    background: #37b721;
+    background: #214db7;
     color: #ffffff;
     height: 60px;
     font-size: 17px;
@@ -3858,7 +3858,7 @@ aside .booking-form .form-group .booking-confirm {
     margin-top: 50px;
 }
 .adding-form .addfor-bg {
-    background: #37b721 url("../images/bgimage/add.jpg");
+    background: #214db7 url("../images/bgimage/add.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3906,7 +3906,7 @@ aside .booking-form .form-group .booking-confirm {
     pointer-events: none;
 }
 .video-bg {
-    background: #37b721 url("../images/bgimage/videotab.jpg") no-repeat scroll center center/cover;
+    background: #214db7 url("../images/bgimage/videotab.jpg") no-repeat scroll center center/cover;
     padding: 250px 0;
     position: relative;
     overflow: hidden;
@@ -3922,7 +3922,7 @@ aside .booking-form .form-group .booking-confirm {
     z-index: 1;
 }
 .video-bg .video-play-btn {
-    border: 3px solid #37b721;
+    border: 3px solid #214db7;
     border-radius: 100%;
     height: 80px;
     line-height: 75px;
@@ -3934,7 +3934,7 @@ aside .booking-form .form-group .booking-confirm {
     font-size: 25px;
 }
 .video-bg a span i {
-    color: #37b721;
+    color: #214db7;
 }
 .video-bg a:focus {
     outline: none;
@@ -3976,7 +3976,7 @@ aside .booking-form .form-group .booking-confirm {
     font-weight: 500;
 }
 .main-timeline .timeline .timeline-content .timeline-icon {
-    background: #37b721 none repeat scroll 0 0;
+    background: #214db7 none repeat scroll 0 0;
     border-radius: 100%;
     color: #ffffff;
     font-size: 35px;
@@ -4047,7 +4047,7 @@ aside .booking-form .form-group .booking-confirm {
     display: inline-block;
     transition: all 0.4s ease;
     color: #ffffff;
-    background: #37b721;
+    background: #214db7;
     font-weight: 500;
 }
 .contact-form .form-group .button:hover {
@@ -4176,10 +4176,10 @@ aside .booking-form .form-group .booking-confirm {
     width: 82%;
     padding: 10px;
     position: relative;
-    background: #37b721;
+    background: #214db7;
 }
 .single .blog-comments .single-comments .body:before {
-    border-right-color: #37b721 !important;
+    border-right-color: #214db7 !important;
     position: absolute;
     left: -12px;
     top: -1px;
@@ -4261,10 +4261,10 @@ aside .booking-form .form-group .booking-confirm {
     outline: none;
 }
 .single .comment-respond input:focus, .single .comment-respond textarea:focus {
-    border: 1px solid #37b721;
+    border: 1px solid #214db7;
 }
 .single .comment-respond input[type="submit"] {
-    background: #37b721;
+    background: #214db7;
     border-radius: 0;
     color: #fff;
     border: none;
@@ -4297,7 +4297,7 @@ aside .booking-form .form-group .booking-confirm {
     color: #ffffff;
     right: 0;
     transition: all 0.4s ease;
-    background: #37b721;
+    background: #214db7;
     text-transform: uppercase;
     font-size: 14px;
     font-weight: 400;
@@ -4362,7 +4362,7 @@ aside .booking-form .form-group .booking-confirm {
     color: #ffffff;
     display: block;
     padding: 5px 10px;
-    background: #37b721;
+    background: #214db7;
 }
 .single .blog-sidebar .tags ul li a:hover {
     color: #ffffff;
@@ -4381,7 +4381,7 @@ aside .booking-form .form-group .booking-confirm {
     top: 100% !important;
 }
 .header-bottom-area .logo-area {
-    padding: 24px 0;
+    padding: 0px 0;
 }
 .single-bredcurms .bredcrums-content ul li a {
     font-size: 15px;
@@ -4420,10 +4420,10 @@ aside .booking-form .form-group .booking-confirm {
 
 .header-bottom-area .main-menu > li ul.dropdown {
     top: 78% !important;
-    border-top: 2px solid #37b721;
+    border-top: 2px solid #214db7;
 }
 .header-bottom-area .main-menu > li ul.dropdown li a:hover {
-    color: #37b721;
+    color: #214db7;
     margin-left: 5px;
 }
 .tabbased-search-area .tabbable-menu .tab-menu li a {
@@ -4451,7 +4451,7 @@ aside .booking-form .form-group .booking-confirm {
 }
 .header-bottom-area-4 .main-menu > li ul.dropdown {
     top: 97% !important;
-    border-top: 2px solid #37b721;
+    border-top: 2px solid #214db7;
 }
 
 /*========= 05.popular packajge section css goes here ================*/
@@ -4585,3 +4585,10 @@ aside .booking-form .form-group .booking-confirm {
 }
 
 /*resposive setting end here*/
+
+
+.icon {
+  color: white;
+  font-size: 100px;
+  
+}
