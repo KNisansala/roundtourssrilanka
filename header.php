@@ -28,7 +28,7 @@
             <div class="row">
                 <div class="col-md-2 col-sm-2 col-xs-12 tap-v-responsive">
                     <div class="logo-area">
-                        <a href="index-2.html"><img src="images/logo2.png" alt="">
+                        <a href="index-2.html"><img src="images/logo/logo1.png" alt="">
                         </a>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                             <li><a href="about-us.php">About Us</a></li>
                             <li><a href="tour-packages.php">Tour Packages</a></li>
                             <li><a href="destination.php">Destination</a></li>
-                            <li><a href="#">Photo Album</a></li>
+                            <li><a href="photo-album.php">Photo Album</a></li>
                             <li><a href="#">Guest Comment</a></li>
                             <li><a href="contact.php">Contact Us</a></li>
                         </ul>

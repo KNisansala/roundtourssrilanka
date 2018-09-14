@@ -5,7 +5,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="single-footer">
                     <div class="footer-title">
-                        <a href="#"><img src="images/logo.png" alt="">
+                        <a href="#"><img src="images/logo/logo2.png" alt="">
                         </a>
                     </div>
                     <div class="footer-left">
@@ -13,7 +13,7 @@
                             <p>Lorem ipsum dolor sit amet conset ctetur adipiscin elit Etiam at ipsum at ligula vestibulum sodales Sed is luctus orci vel nibh.</p>
                         </div>
                         <ul class="footer-contact">
-                            <li><img class="map" src="images/icon/map.png" alt="">No.205, Bokundara , Piliyandala, Sri Lanka.</li>
+                            <li><img class="map" src="images/icon/locl2.png" alt="">No.205, Bokundara , Piliyandala, Sri Lanka.</li>
                             <li><img class="map" src="images/icon/phone.png" alt="">+94 71 666 7557 | +94 11 3663 500 | +94 91  312 7744</li>
                             <li><img class="map" src="images/icon/gmail.png" alt="">mail@sublime.lk</li>
                         </ul>

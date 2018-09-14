@@ -8,7 +8,7 @@
         <meta name="description" content="TRABBLE - Tour, Travel, Travel Agency Template">
         <meta name="keywords" content="Tour, Travel, Travel Agency Template">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Trabble - Tour, Travel & Travel Agency Template</title>
+        <title>Round Tour Sri Lanka</title>
         <!-- Google Fonts Includes -->
         <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
         <!-- Favi icon -->
@@ -127,7 +127,7 @@
                                         <input type="text" placeholder="Country " class="form-control input-validatar" name="txtCountry" id="txtCountry">
                                         <span id="spanCountry"></span>
                                     </div>
-                                    
+
                                     <div class="form-group">
                                         <textarea name="message" rows="6" class="form-control input-validatar" placeholder="Message" id="comments"></textarea>
                                         <span id="spanComments"></span>
