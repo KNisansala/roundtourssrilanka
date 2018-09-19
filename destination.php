@@ -111,13 +111,12 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-travel-blog single-travel-blog-2">
                             <div class="blog-image">
-                                <a href="#"><img src="images/destination/del5.jpg" alt="">
+                                <a href="View-Destination.php"><img src="images/destination/del5.jpg" alt="">
                                 </a>
                             </div>
                             <div class="blog-content">
                                 <div class="blog-post-content">
-                                    <h4>Tips for taking a long-term trip with kids.</h4>
-
+                                    <a href="View-Destination.php"> <h4>Tips for taking a long-term trip with kids.</h4></a>
                                     <p>Lorem ipsum dolor sit amet consepctetur adipiscing elit Etiam at ipsum at ligula vestibulum sodales Sed luctus.</p>
                                 </div>
                                 <div class="read-more-btn">
@@ -139,12 +138,12 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-travel-blog single-travel-blog-2">
                             <div class="blog-image">
-                                <a href="#"><img src="images/destination/del3.jpg" alt="">
+                                <a href="View-Destination.php"><img src="images/destination/del3.jpg" alt="">
                                 </a>
                             </div>
                             <div class="blog-content">
                                 <div class="blog-post-content">
-                                    <h4>Tips for taking a long-term trip with kids.</h4>
+                                    <a href="View-Destination.php"> <h4>Tips for taking a long-term trip with kids.</h4></a>
                                     <p>Lorem ipsum dolor sit amet consepctetur adipiscing elit Etiam at ipsum at ligula vestibulum sodales Sed luctus.</p>
                                 </div>
                                 <div class="read-more-btn">
@@ -166,12 +165,12 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-travel-blog single-travel-blog-2">
                             <div class="blog-image">
-                                <a href="#"><img src="images/destination/del1.jpg" alt="">
+                                <a href="View-Destination.php"><img src="images/destination/del1.jpg" alt="">
                                 </a>
                             </div>
                             <div class="blog-content">
                                 <div class="blog-post-content">
-                                    <h4>Tips for taking a long-term trip with kids.</h4>
+                                    <a href="View-Destination.php"> <h4>Tips for taking a long-term trip with kids.</h4></a>
                                     <p>Lorem ipsum dolor sit amet consepctetur adipiscing elit Etiam at ipsum at ligula vestibulum sodales Sed luctus.</p>
                                 </div>
                                 <div class="read-more-btn">
@@ -193,12 +192,12 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-travel-blog single-travel-blog-2">
                             <div class="blog-image">
-                                <a href="#"><img src="images/destination/del6.jpg" alt="">
+                                <a href="View-Destination.php"><img src="images/destination/del6.jpg" alt="">
                                 </a>
                             </div>
                             <div class="blog-content">
                                 <div class="blog-post-content">
-                                    <h4>Tips for taking a long-term trip with kids.</h4>
+                                    <a href="View-Destination.php"> <h4>Tips for taking a long-term trip with kids.</h4></a>
                                     <p>Lorem ipsum dolor sit amet consepctetur adipiscing elit Etiam at ipsum at ligula vestibulum sodales Sed luctus.</p>
                                 </div>
                                 <div class="read-more-btn">
@@ -220,12 +219,12 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-travel-blog single-travel-blog-2">
                             <div class="blog-image">
-                                <a href="#"><img src="images/destination/del7.jpg" alt="">
+                                <a href="View-Destination.php"><img src="images/destination/del7.jpg" alt="">
                                 </a>
                             </div>
                             <div class="blog-content">
                                 <div class="blog-post-content">
-                                    <h4>Tips for taking a long-term trip with kids.</h4>
+                                    <a href="View-Destination.php"> <h4>Tips for taking a long-term trip with kids.</h4></a>
                                     <p>Lorem ipsum dolor sit amet consepctetur adipiscing elit Etiam at ipsum at ligula vestibulum sodales Sed luctus.</p>
                                 </div>
                                 <div class="read-more-btn">
@@ -242,20 +241,7 @@
                             </div>
                         </div>
                     </div><!-- single travel guide & security end-->
-                </div>
-                <div class="row">
-                    <!-- pagination start here -->
-                    <div class="col-sm-12 text-center">
-                        <ul class="pagination">
-                            <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a>
-                            </li>
-                            <li><a href="#">2</a>
-                            </li>
-                            <li><a href="#">3</a>
-                            </li>
-                        </ul>
-                    </div><!-- pagination end here -->
-                </div>
+                </div>              
             </div>
         </section><!-- single popular destination  end-->
 
