@@ -12,7 +12,7 @@
         <!-- Google Fonts Includes -->
         <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
         <!-- Favi icon -->
-        <link rel="shortcut icon" type="image/x-icon" href="images/logo/logo2.png"
+        <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
         <!-- bootstrap v3.3.6 css -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <!-- animate css -->
@@ -66,11 +66,11 @@
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="bredcrums-content">
-                                <h2>View Destination</h2>
+                                <h2>View Tour-Packages</h2>
                                 <ul>
                                     <li><a href="index.php">Home</a></li>
-                                    <li><a href="destination.php">Destination</a></li>
-                                    <li class="active"><a href="View-Destination.php">View Destination</a></li>
+                                    <li><a href="tour-packages.php.php">Tour-Packages</a></li>
+                                    <li class="active"><a href="view-tour-packages.php">View Tour-Packages</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -109,7 +109,7 @@
                     <div class="col-md-4 col-sm-12 col-xs-12">
                         <!-- Blog Sidebar -->
                         <div class="blog-sidebar">
-                            <h2>Other Destination</h2>
+                            <h2>Other Tour-Package</h2>
                             <!-- Single Sidebar 2 -->
                             <div class="single-sidebar category">
 
@@ -151,16 +151,24 @@
                                     </a>
                                 </div>
                                 <div class="col-md-6 col-sm-12 col-xs-12 q">
-                                     <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset. Eu vel epicurei percipit, lobortis dignissim efficiendi te sit. </p> 
+                                    <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset. Eu vel epicurei percipit, lobortis dignissim efficiendi te sit. </p> 
                                     </p> 
                                 </div>                 
                             </div>
-                            <!--/ End Single Sidebar -->
 
+                        </div>
 
-
-                        </div><!--/ End Blog Sidebar -->
                     </div>
+                    <div class="header-top-right text-right">
+                    <div class="col-md-6 col-xs-12 book-tab">
+                        <div class="book-btn">
+                            <a href="#">Booking Now</a>
+                        </div>
+                    </div>
+                </div>
+                    
+                    
+                    
                 </div>
             </div>
         </section>
@@ -256,7 +264,7 @@
                         },
                         1000: {
                             items: 1,
-                         
+
                         }
                     }
 

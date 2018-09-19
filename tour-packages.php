@@ -12,9 +12,9 @@
         <!-- Google Fonts Includes -->
         <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
         <!-- Favi icon -->
-        <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
-        <!-- bootstrap v3.3.6 css -->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="shortcut icon" type="image/x-icon" href="images/logo/logo2.png"
+              <!-- bootstrap v3.3.6 css -->
+              <link rel="stylesheet" href="css/bootstrap.min.css">
         <!-- animate css -->
         <link rel="stylesheet" href="css/animate.css">
         <!-- Button Hover animate css -->
@@ -108,7 +108,7 @@
                                 </div>
                             </div>
                             <div class="package-long-btn hvr-shutter-out-horizontal">
-                                <a href="#">Book Now</a>
+                                <a href="view-tour-packages.php">View</a>
                             </div>
                         </div>
                     </div><!--End single package -->
@@ -143,7 +143,7 @@
                                 </div>
                             </div>
                             <div class="package-long-btn hvr-shutter-out-horizontal">
-                                <a href="#">Book Now</a>
+                                <a href="view-tour-packages.php">View</a>
                             </div>
                         </div>
                     </div><!--End single package -->
@@ -178,7 +178,7 @@
                                 </div>
                             </div>
                             <div class="package-long-btn hvr-shutter-out-horizontal">
-                                <a href="#">Book Now</a>
+                                <a href="view-tour-packages.php">View</a>
                             </div>
                         </div>
                     </div><!--End single package -->
@@ -213,7 +213,7 @@
                                 </div>
                             </div>
                             <div class="package-long-btn hvr-shutter-out-horizontal">
-                                <a href="#">Book Now</a>
+                                <a href="view-tour-packages.php">View</a>
                             </div>
                         </div>
                     </div><!--End single package -->
@@ -248,7 +248,7 @@
                                 </div>
                             </div>
                             <div class="package-long-btn hvr-shutter-out-horizontal">
-                                <a href="#">Book Now</a>
+                                <a href="view-tour-packages.php">View</a>
                             </div>
                         </div>
                     </div><!--End single package -->
@@ -283,7 +283,7 @@
                                 </div>
                             </div>
                             <div class="package-long-btn hvr-shutter-out-horizontal">
-                                <a href="#">Book Now</a>
+                                <a href="view-tour-packages.php">View</a>
                             </div>
                         </div>
                     </div><!--End single package -->
@@ -318,7 +318,7 @@
                                 </div>
                             </div>
                             <div class="package-long-btn hvr-shutter-out-horizontal">
-                                <a href="#">Book Now</a>
+                                <a href="view-tour-packages.php">View</a>
                             </div>
                         </div>
                     </div><!--End single package -->
@@ -353,7 +353,7 @@
                                 </div>
                             </div>
                             <div class="package-long-btn hvr-shutter-out-horizontal">
-                                <a href="#">Book Now</a>
+                                <a href="view-tour-packages.php">View</a>
                             </div>
                         </div>
                     </div><!--End single package -->
@@ -388,7 +388,7 @@
                                 </div>
                             </div>
                             <div class="package-long-btn hvr-shutter-out-horizontal">
-                                <a href="#">Book Now</a>
+                                <a href="view-tour-packages.php">View</a>
                             </div>
                         </div>
                     </div><!--End single package -->
