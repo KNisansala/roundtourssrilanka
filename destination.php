@@ -84,7 +84,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-travel-blog single-travel-blog-2">
                             <div class="blog-image">
-                                <a href="#"><img src="images/destination/del4.jpg" alt="">
+                                <a href="View-Destination.php"><img src="images/destination/del4.jpg" alt="">
                                 </a>
                             </div>
                             <div class="blog-content">
@@ -93,7 +93,7 @@
                                     <p>Lorem ipsum dolor sit amet consepctetur adipiscing elit Etiam at ipsum at ligula vestibulum sodales Sed luctus.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">Read More <i class="fa fa-angle-right"> </i></a>
+                                    <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
                                 </div>
                                 <ul class="soical-share">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -120,7 +120,7 @@
                                     <p>Lorem ipsum dolor sit amet consepctetur adipiscing elit Etiam at ipsum at ligula vestibulum sodales Sed luctus.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">Read More <i class="fa fa-angle-right"> </i></a>
+                                    <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
                                 </div>
                                 <ul class="soical-share">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -147,7 +147,7 @@
                                     <p>Lorem ipsum dolor sit amet consepctetur adipiscing elit Etiam at ipsum at ligula vestibulum sodales Sed luctus.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">Read More <i class="fa fa-angle-right"> </i></a>
+                                    <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
                                 </div>
                                 <ul class="soical-share">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -174,7 +174,7 @@
                                     <p>Lorem ipsum dolor sit amet consepctetur adipiscing elit Etiam at ipsum at ligula vestibulum sodales Sed luctus.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">Read More <i class="fa fa-angle-right"> </i></a>
+                                    <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
                                 </div>
                                 <ul class="soical-share">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -201,7 +201,7 @@
                                     <p>Lorem ipsum dolor sit amet consepctetur adipiscing elit Etiam at ipsum at ligula vestibulum sodales Sed luctus.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">Read More <i class="fa fa-angle-right"> </i></a>
+                                    <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
                                 </div>
                                 <ul class="soical-share">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -228,7 +228,7 @@
                                     <p>Lorem ipsum dolor sit amet consepctetur adipiscing elit Etiam at ipsum at ligula vestibulum sodales Sed luctus.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">Read More <i class="fa fa-angle-right"> </i></a>
+                                    <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
                                 </div>
                                 <ul class="soical-share">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a>

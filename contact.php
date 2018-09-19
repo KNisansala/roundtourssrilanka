@@ -71,18 +71,13 @@
             </div>
         </section><!-- blog breadcrumb version one end here -->
 
-        <!-- google map start  -->
-        <div class="map-wrapper">
-            <div class="map-area">
-                <div id="googleMap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d439677.1231566874!2d80.1719846043145!3d5.910608818235198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae173bb5c8067f1%3A0x4768397502edf93!2sSublime+Holdings!5e0!3m2!1sen!2slk!4v1537154780770"  height="600" frameborder="0" style="border:0;width:100%" allowfullscreen></iframe></div>
-            </div>
-        </div>
 
-        <!-- google map end  -->
+        
+        
         <section class="section-paddings">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-sm-6 col-xs-12">
+                    <div class="col-md-5 col-sm-6 col-xs-12">
                         <div class="contact-title">
                             <h2>Our Office</h2>
                         </div>
@@ -101,7 +96,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6 col-xs-12">
+                    <div class="col-md-7 col-sm-6 col-xs-12">
                         <div class="contact-title">
                             <h2>Contact</h2>
                         </div>
@@ -152,6 +147,14 @@
             </div>
         </section>
 
+                <!-- google map start  -->
+        <div class="map-wrapper">
+            <div class="map-area">
+                <div id="googleMap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d439677.1231566874!2d80.1719846043145!3d5.910608818235198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae173bb5c8067f1%3A0x4768397502edf93!2sSublime+Holdings!5e0!3m2!1sen!2slk!4v1537154780770"  height="600" frameborder="0" style="border:0;width:100%" allowfullscreen></iframe></div>
+            </div>
+        </div>
+
+        <!-- google map end  -->
         <!-- footer start here -->
         <?php
         include './footer.php';

@@ -151,7 +151,8 @@
                                     </a>
                                 </div>
                                 <div class="col-md-6 col-sm-12 col-xs-12 q">
-                                    <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset.</p> 
+                                     <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset. Eu vel epicurei percipit, lobortis dignissim efficiendi te sit. </p> 
+                                    </p> 
                                 </div>                 
                             </div>
                             <!--/ End Single Sidebar -->
