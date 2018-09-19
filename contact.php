@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="zxx">
 
-    <!-- Mirrored from getnajmul.com/theme/trabble/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 07 Sep 2018 02:32:14 GMT -->
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -75,7 +74,7 @@
         <!-- google map start  -->
         <div class="map-wrapper">
             <div class="map-area">
-                <div id="googleMap"></div>
+                <div id="googleMap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d439677.1231566874!2d80.1719846043145!3d5.910608818235198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae173bb5c8067f1%3A0x4768397502edf93!2sSublime+Holdings!5e0!3m2!1sen!2slk!4v1537154780770"  height="600" frameborder="0" style="border:0;width:100%" allowfullscreen></iframe></div>
             </div>
         </div>
 
@@ -110,7 +109,7 @@
                             <div id="contact">  
                                 <div id="message"></div> 						
                                 <!-- Contact Form -->
-                                <form class="form" method="post" action="http://getnajmul.com/theme/trabble/contact.php" name="contactform" id="contactform">
+                                <!--<form class="form" method="post" name="contactform" id="contactform">-->
                                     <div class="form-group">
                                         <input type="text" placeholder="FullName" class="form-control input-validatar" name="txtFullName" id="txtFullName">
                                         <span id="spanFullName"></span>
@@ -129,7 +128,7 @@
                                     </div>
 
                                     <div class="form-group">
-                                        <textarea name="message" rows="6" class="form-control input-validatar" placeholder="Message" id="comments"></textarea>
+                                        <textarea name="message" rows="6" class="form-control input-validatar" placeholder="Message" id="txtMessage"></textarea>
                                         <span id="spanComments"></span>
                                     </div>
                                     <div class="form-group">
@@ -145,7 +144,7 @@
 
                                     <div id="dismessage" align="center" class="msg-success"></div>
 
-                                </form><!--/ End Contact Form -->
+                                <!--</form>/ End Contact Form -->
                             </div>
                         </div>
                     </div>
@@ -202,9 +201,9 @@
         <!-- Jquery plugin -->
         <script src="js/jquery-customselect.js"></script>
         <!-- google map api -->
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCIW0B_E3g-Yg533xy3yF0WHThi-mFvSNQ"></script>
+        <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCIW0B_E3g-Yg533xy3yF0WHThi-mFvSNQ"></script>-->
         <!-- map js -->
-        <script src="js/google-map.js"></script>    
+        <!--<script src="js/google-map.js"></script>-->    
         <!-- main js -->
         <script src="js/custom.js"></script>
 

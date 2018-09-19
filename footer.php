@@ -20,58 +20,35 @@
                     </div>
                 </div>
             </div> <!-- footer left -->
-
-            <!-- footer latest news -->
-            <div class="col-md-3 col-sm-6">
+            <!-- footer contact -->
+            <div class="col-md-4 col-sm-6 f-phone-responsive">
                 <div class="single-footer">
-                    <div class="single-recent-post">
-                        <div class="footer-title">
-                            <h3>Recent News</h3>
-                        </div>
-                        <ul class="recent-post">
-                            <li>
-                                <a href="#">
-                                    <div class="post-thum">
-                                        <img src="images/blog/b1.jpg" alt="" class="img-rounded">
-                                    </div>
-                                    <div class="post-content">
-                                        <p>A Clean Website Gives More Experience To The Visitors.
-                                        </p>
-                                        <span>12 July, 2018</span>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <div class="post-thum">
-                                        <img src="images/blog/b2.jpg" alt="" class="img-rounded">
-                                    </div>
-                                    <div class="post-content">
-                                        <p>A Clean Website Gives More Experience To The Visitors.
-                                        </p>
-                                        <span>12 July, 2018</span>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <div class="post-thum">
-                                        <img src="images/blog/b3.jpg" alt="" class="img-rounded">
-                                    </div>
-                                    <div class="post-content">
-                                        <p>A Clean Website Gives More Experience To The Visitors.
-                                        </p>
-                                        <span>12 July, 2018</span>
-                                    </div>
-                                </a>
-                            </li>
-                        </ul>
+                    <div class="footer-title">
+                        <h3> Quick Links </h3>
                     </div>
+                    <div class="footer-contact-form">
+                        <form action="#">
+                            <ul class="footer-form-element">
+                                <li>
+                                <li><a href="index.php">Home</a></li> 
+                                <li><a href="about-us.php">About-us</a></li> 
+                                <li><a href="tour-packages.php">Tour Package</a></li> 
+                                <li><a href="destination.php">Destination</a></li> 
+                                <li><a href="photo-album.php">Photo Album</a></li> 
+                                <li><a href="#">Gust Comment</a></li> 
+                                <li><a href="contact.php">Contact</a></li> 
+                                </li>
+
+                            </ul>
+                        </form>
+                    </div>
+
                 </div>
-            </div> <!-- footer latest news -->
+            </div>             
+            <!-- footer contact -->
 
             <!-- footer destination -->
-            <div class="col-md-3 col-sm-6 f-phone-responsive">
+            <div class="col-md-4 col-sm-6 f-phone-responsive">
                 <div class="single-footer">
                     <div class="footer-title">
                         <h3>Destination</h3>
@@ -118,34 +95,7 @@
                             </a>
                         </li>
                     </ul>
-                </div>
-            </div> <!-- footer destination -->
 
-            <!-- footer contact -->
-            <div class="col-md-3 col-sm-6 f-phone-responsive">
-                <div class="single-footer">
-                    <div class="footer-title">
-                        <h3>Quick Contact</h3>
-                    </div>
-                    <div class="footer-contact-form">
-                        <form action="#">
-                            <ul class="footer-form-element">
-                                <li>
-                                    <input type="text" name="email" id="email" placeholder="" value="Email Address" onblur="if (this.value == '') {
-                                                        this.value = 'Email Address'
-                                                    }" onfocus="if (this.value == 'Email Address') {
-                                                                this.value = ''
-                                                            }">
-                                </li>
-                                <li>
-                                    <textarea name="message" id="message" cols="30" rows="10" placeholder="Message"></textarea>
-                                </li>
-                                <li>
-                                    <button>Send</button>
-                                </li>
-                            </ul>
-                        </form>
-                    </div>
                     <div class="footer-social-media">
                         <div class="social-footer-title">
                             <h3>Follow Us</h3>
@@ -157,11 +107,13 @@
                             </li>
                             <li class="linkedin"><a href="https://www.linkedin.com/company/13588872/"><i class="fa fa-linkedin"></i></a>
                             </li>
-                            
                         </ul>
-                    </div>
+                    </div> 
                 </div>
-            </div> <!-- footer contact -->
+            </div> 
+            <!-- footer destination -->
+
+
         </div>
         <div class="row">
             <div class="footer-bottom">
@@ -169,10 +121,10 @@
                     <div class="copyright">
                         <p>Copyright &copy; 2018 <a href="http://sublime.lk/"><span> Sublime Holdings. </span></a> All rights reserved </p>
                     </div>
-                    
-<!--                    <div class="copyright">                        <a target="_blank" href="http://sublime.lk/">Copyright © 2018. Sublime Holdings. All rights reserved</a>                    </div>
+
+                    <!--                    <div class="copyright">                        <a target="_blank" href="http://sublime.lk/">Copyright © 2018. Sublime Holdings. All rights reserved</a>                    </div>
                     -->
-                    
+
                 </div>
                 <div class="col-md-7">
                     <ul class="payicon pull-right">

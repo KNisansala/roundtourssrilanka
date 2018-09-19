@@ -392,21 +392,7 @@
                             </div>
                         </div>
                     </div><!--End single package -->
-                </div>
-
-                <div class="row">
-                    <!-- pagination start here -->
-                    <div class="col-sm-12 text-center">
-                        <ul class="pagination">
-                            <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a>
-                            </li>
-                            <li><a href="#">2</a>
-                            </li>
-                            <li><a href="#">3</a>
-                            </li>
-                        </ul>
-                    </div><!-- pagination end here -->
-                </div>
+                </div>             
             </div>
         </section><!-- single popular destination  end-->
 

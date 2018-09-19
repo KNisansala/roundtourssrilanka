@@ -135,7 +135,7 @@ img {
     overflow: hidden;
 }
 p {
-    margin: 0 0 15px;
+    margin: 15px 0 15px;
     font-size: 15px;
     color: #727272;
     font-weight: 400;
@@ -1296,7 +1296,7 @@ header {
 }
 /*===================================================== 14.Footer area section css goes here =======================================================*/
 .footer-area {
-    background: #2f3133 url("../images/bgimage/footer1.jpg") no-repeat scroll 99% center/cover;
+    background: #2f3133 url("../images/bgimage/footer2.jpg") no-repeat scroll 99% center/cover;
     padding-bottom: 10px;
 }
 .footer-area .single-footer {
@@ -1401,6 +1401,7 @@ header {
 }
 .footer-area .single-footer .footer-contact-form form .footer-form-element li {
     margin-bottom: 25px;
+    margin-left: 88px;
 }
 .footer-area .single-footer .footer-contact-form form .footer-form-element li input {
     background: #444648 none repeat scroll 0 0;
@@ -4309,6 +4310,7 @@ aside .booking-form .form-group .booking-confirm {
     background: #fff;
     padding: 15px;
     margin-bottom: 30px;
+    height:279px;    
 }
 .single .blog-sidebar .single-sidebar h2 {
     text-transform: capitalize;
@@ -4539,56 +4541,58 @@ aside .booking-form .form-group .booking-confirm {
 .related-title h2 {
     margin-left: -32px;
 }
-
-/*resposive setting start here*/
-@media(max-width :320px )  
-{
-    .title-line-12 h2{
-        font-size: 21px !important;
-    }
-    .view-all {
-        margin-left: 90px;
-    }
-}
-
-@media(max-width :360px )  
-{
-    .title-line-12 h2{
-        margin-left: 108px;
-    }
-    
-}
-
-@media(max-width :412px )  
-{
-    .view-all {
-        margin-left: 136px;
-        margin-top: 35px;
-    }
-}
-
-@media(max-width :960px )  
-{
-    
-    .header-top-right .book-btn a {
-        font-size: 14px;
-        padding: 8px 16px;
-    }
-
-    .section-title-version-2 h2, .section-title-version-2-white h2, .section-title-version-2-black h2 {
-        margin-top: 86px;
-    }
-    .view-all {
-        margin-left: 304px;
-    }
-
-}
-
-/*resposive setting end here*/
-
-
 .icon {
-  color: white;
-  font-size: 100px;
-  
+    color: white;
+    font-size: 100px;
+
+}
+
+.slid {
+    width: 710px;
+    background: #cccccc;
+    color: #fff;
+    margin: 10px;
+    height: 412px;
+}
+
+
+.destination-slider .owl-nav .owl-prev {
+    /*background: #214db7 none repeat scroll 0 0;*/
+    /*color: #ffffff;*/
+    /*font-size: 20px;*/
+    height: 50px;
+    left: 15px;
+    /*line-height: 50px;*/
+    /*position: absolute;*/
+    /*text-align: center;*/
+    /*top: 50%;*/
+    /*transform: translateY(-50%);*/
+    width: 50px;
+    opacity: 0.9;
+    /*transition: all 0.3s ease-out;*/
+    border-radius: 28px;
+}
+
+.destination-slider .owl-nav .owl-next {
+    /*background: #214db7 none repeat scroll 0 0;*/
+    /*color: #ffffff;*/
+    /*font-size: 20px;*/
+    height:50px;
+    left: 664px;
+    /*line-height: 50px;*/
+    /*position: absolute;*/
+    /*text-align: center;*/
+    /*top: 50%;*/
+    /*transform: translateY(-50%);*/
+    width: 50px;
+    opacity: 0.9;
+    /*transition: all 0.3s ease-out;*/
+    border-radius: 28px;
+}
+
+viewdisimg{
+    float:left;
+}
+viewdisidis{
+    float:right;
 }

@@ -76,7 +76,7 @@ function sendForm() {
         dataType: "json",
         type: "POST",
         data: {
-            full_lname: jQuery('#txtFullName').val(),
+            full_name: jQuery('#txtFullName').val(),
             email: jQuery('#txtEmail').val(),
             subject: jQuery('#txtSubject').val(),
             country: jQuery('#txtCountry').val(),
@@ -115,7 +115,7 @@ function sendForm() {
 
 function validateEmpty(field, validatorspan)
 {
-
+    
     if (jQuery('#' + field).val().length != 0)
     {
         jQuery('#' + validatorspan).addClass("validated");

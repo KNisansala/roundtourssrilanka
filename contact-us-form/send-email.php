@@ -2,8 +2,8 @@
 
 //----------------------Company Information---------------------
 
-$comany_name = "Round Tour Sri Lanka";
-$website_name = "www.sublime.com";
+$comany_name = "Round Tours Sri Lanka";
+$website_name = "www.roundtoursrilanka.lk";
 $comConNumber = "+94 766367605";
 $comEmail = "sachithgalle@gmail.com";
 $from = 'sachithgalle@gmail.com';
@@ -24,23 +24,22 @@ if ($_SESSION['CAPTCHACODE'] != $_POST['captchacode']) {
 //----------------------Visitor Information---------------------
 
 
-$full_lname = $_POST['full_lname'];
+$full_lname = $_POST['full_name'];
 $visitor_email = $_POST['email'];
 $country = $_POST['country'];
-$phone = $_POST['phone'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 $captchacode = $_POST['captchacode'];
 
 
-$subject = 'New Website Enquiry - Booking';
+//$subject = 'New Website Enquiry - Booking';
 
 
 date_default_timezone_set('Asia/Colombo');
 
 $todayis = date("l, F j, Y, g:i a");
 
-$site_link = "http://" . $_SERVER['HTTP_HOST'].'/uppermost-villa';
+$site_link = "http://" . $_SERVER['HTTP_HOST'].'/roundtourssrilanka';
 
 
 include("mail-template.php");
@@ -68,7 +67,7 @@ if (
     echo json_encode($response);
     exit();
 } else {
-    $response['status'] = 'correct';
+    $response['status'] = 'Incorrect';
     $response['msg'] = "Could not be sent your message";
     echo json_encode($response);
     exit();
