@@ -11,8 +11,8 @@
         <title>Round Tour Sri Lanka</title>
         <!-- Google Fonts Includes -->
         <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
-        <!-- Favi icon -->
-        <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+     <!-- Favi icon -->
+        <link rel="shortcut icon" type="image/x-icon" href="images/logo/logo2.png"
         <!-- bootstrap v3.3.6 css -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <!-- animate css -->
