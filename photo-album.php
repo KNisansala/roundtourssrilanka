@@ -86,7 +86,7 @@
                     <!-- single destination -->
                     <div class="col-md-3 col-sm-3 col-xs-12">
                         <figure>
-                            <a href="images/gallery/g1.jpg" class="" data-fancybox="images" >
+                            <a href="images/gallery/gl1.jpeg" class="" data-fancybox="images" >
                                 <figcaption>
                                     <i class="fa fa-search" style="font-size:30px;color:#ffff;"></i>
                                 </figcaption>
@@ -99,7 +99,7 @@
                     <!-- single destination -->
                     <div class="col-md-3 col-sm-3 col-xs-12">
                         <figure>
-                            <a href="images/gallery/g2.jpg" data-fancybox="images">
+                            <a href="images/gallery/gl2.jpg" data-fancybox="images">
                                 <figcaption>
                                     <i class="fa fa-search" style="font-size:30px;color:#ffff;"></i>
                                 </figcaption>
@@ -112,7 +112,7 @@
                     <!-- single destination -->
                     <div class="col-md-3 col-sm-3 col-xs-12">
                         <figure>
-                            <a href="images/gallery/g3.jpg"  data-fancybox="images">
+                            <a href="images/gallery/gl3.jpg"  data-fancybox="images">
 
                                 <figcaption>
                                     <i class="fa fa-search" style="font-size:30px;color:#ffff;"></i>
@@ -126,7 +126,7 @@
                     <!-- single destination -->
                     <div class="col-md-3 col-sm-3 col-xs-12">
                         <figure>
-                            <a href="images/gallery/g4.jpg"  data-fancybox="images">                             
+                            <a href="images/gallery/gl4.jpg"  data-fancybox="images">                             
 
                                 <figcaption>
                                     <i class="fa fa-search" style="font-size:30px;color:#ffff;"></i>
@@ -139,7 +139,7 @@
                     <!-- single destination -->
                     <div class="col-md-3 col-sm-3 col-xs-12">
                         <figure>
-                            <a href="images/gallery/g5.jpg" data-fancybox="images">
+                            <a href="images/gallery/gl5.jpg" data-fancybox="images">
 
                                 <figcaption>
                                     <i class="fa fa-search" style="font-size:30px;color:#ffff;"></i>
@@ -152,7 +152,7 @@
                     <!-- single destination -->
                     <div class="col-md-3 col-sm-3 col-xs-12">
                         <figure>
-                            <a href="images/gallery/g6.jpg" data-fancybox="images">
+                            <a href="images/gallery/gl6.jpg" data-fancybox="images">
 
                                 <figcaption>
                                     <i class="fa fa-search" style="font-size:30px;color:#ffff;"></i>
@@ -165,7 +165,7 @@
                     <!-- single destination -->
                     <div class="col-md-3 col-sm-3 col-xs-12">
                         <figure>
-                            <a href="images/gallery/g7.jpg" data-fancybox="images">
+                            <a href="images/gallery/gl7.jpg" data-fancybox="images">
 
                                 <figcaption>
                                     <i class="fa fa-search" style="font-size:30px;color:#ffff;"></i>
@@ -178,7 +178,7 @@
                     <!-- single destination -->
                     <div class="col-md-3 col-sm-3 col-xs-12">
                         <figure>
-                            <a href="images/gallery/g8.jpg" data-fancybox="images">
+                            <a href="images/gallery/gl8.jpg" data-fancybox="images">
                                 <figcaption>
                                     <i class="fa fa-search" style="font-size:30px;color:#ffff;"></i>
                                 </figcaption>
