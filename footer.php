@@ -2,45 +2,73 @@
     <div class="container">
         <div class="row tab-layout">
             <!-- footer left -->
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-3 col-sm-6 f-phone-responsive">
                 <div class="single-footer">
                     <div class="footer-title">
-                        <a href="index.php"><img src="images/logo/logo2.png" alt="">
-                             <!--<a href="#"><img src="images/logo/logo2.png" alt="">-->
-                        </a>
-                    </div>
-                    <div class="footer-left">
-                        <div class="footer-logo">
-                            <p>Lorem ipsum dolor sit amet conset ctetur adipiscin elit Etiam at ipsum at ligula vestibulum sodales Sed is luctus orci vel nibh.</p>
+                        <div class="col-md-3 col-sm-6 f-phone-responsive">
+                            <a href="index.php"><img src="images/logo/logo3.png" alt="" class="logofooter"></a>
                         </div>
-                        <ul class="footer-contact">
-                            <li><img class="map" src="images/icon/locl2.png" alt="">No.205, Bokundara , Piliyandala, Sri Lanka.</li>
-                            <li><img class="map" src="images/icon/phone.png" alt="">+94 71 666 7557 | +94 11 3663 500 | +94 91  312 7744</li>
-                            <li><img class="map" src="images/icon/gmail.png" alt="">mail@sublime.lk</li>
-                        </ul>                   
+
+                        <h3> About Us </h3>
+                    </div>
+                    <div class="footer-contact-form">
+                        <form action="#">
+
+                            <div class="footer-left">
+                                <div class="footer-logo">
+                                    <p>Lorem ipsum dolor sit amet conset ctetur adipiscin elit Etiam at ipsum at ligula vestibulum sodales Sed is luctus orci vel nibh.</p>
+                                </div>                    
+                            </div>
+                        </form>
                     </div>
                 </div>
-            </div> <!-- footer left -->
+            </div>  
+            <div class="col-md-3 col-sm-6 f-phone-responsive">
+                <div class="single-footer">
+                    <div class="footer-title">
+                        <h3> Contact Us </h3>
+                    </div>
+                    <div class="footer-contact-form">
+                        <form action="#">
+
+
+                            <div class="footer-left">
+                                <ul class="footer-contact">
+                                    <li><img class="map" src="images/icon/locl2.png" alt="">No.205, Bokundara , Piliyandala, Sri Lanka.</li>
+                                    <li><img class="map" src="images/icon/phone.png" alt="">+94 71 666 7557 | +94 11 3663 500 | +94 91  312 7744</li>
+                                    <li><img class="map" src="images/icon/gmail.png" alt="">mail@sublime.lk</li>
+                                </ul>                    
+                            </div>
+                        </form>
+                    </div>
+
+                </div>
+            </div>    
+            <!--hj-->
+            <!-- footer left -->
             <!-- footer contact -->
-            <div class="col-md-4 col-sm-6 f-phone-responsive">
+            <div class="col-md-3 col-sm-6 f-phone-responsive">
                 <div class="single-footer">
                     <div class="footer-title">
                         <h3> Quick Links </h3>
                     </div>
                     <div class="footer-contact-form">
                         <form action="#">
-                            <ul class="footer-form-element">
-                                <li>
-                                <li><a href="index.php">Home</a></li> 
-                                <li><a href="about-us.php">About-us</a></li> 
-                                <li><a href="tour-packages.php">Tour Package</a></li> 
-                                <li><a href="destination.php">Destination</a></li> 
-                                <li><a href="photo-album.php">Photo Album</a></li> 
-                                <li><a href="#">Gust Comment</a></li> 
-                                <li><a href="contact.php">Contact</a></li> 
-                                </li>
+                            <div class="footer-left">
+                                <ul class="footer-contact">
+                                    <li> <img class="map" alt=""><a href="index.php">Home</a></li>
+                                    <li> <img class="map" alt=""><a href="about-us.php">About-us</a></li>
+                                    <li> <img class="map" alt=""><a href="tour-packages.php">Tour Package</a></li> 
+                                    <li> <img class="map" alt=""><a href="destination.php">Destination</a></li>   
+                                    <li> <img class="map" alt=""><a href="photo-album.php">Photo Album</a></li>
+                                    <li> <img class="map" alt=""><a href="guest-comment.php">Gust Comment</a></li>
+                                    <li> <img class="map" alt=""><a href="contact.php">Contact</a></li>
+                                </ul>                   
 
-                            </ul>
+                            </div>
+
+
+
                         </form>
                     </div>
 
@@ -49,7 +77,7 @@
             <!-- footer contact -->
 
             <!-- footer destination -->
-            <div class="col-md-4 col-sm-6 f-phone-responsive">
+            <div class="col-md-3 col-sm-6 f-phone-responsive">
                 <div class="single-footer">
                     <div class="footer-title">
                         <h3>Destination</h3>
