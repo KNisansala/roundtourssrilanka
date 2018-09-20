@@ -1297,7 +1297,7 @@ header {
 /*===================================================== 14.Footer area section css goes here =======================================================*/
 .footer-area {
     background: #2f3133 url("../images/bgimage/footer2.jpg") no-repeat scroll 99% center/cover;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
 }
 .footer-area .single-footer {
     padding: 80px 0;
@@ -1317,7 +1317,7 @@ header {
 .footer-area .single-footer .footer-left .footer-contact li {
     color: #ffffff;
     display: block;
-    padding: 8px 0;
+    padding: 6px 0;
 }
 .footer-area .single-footer .footer-left .footer-contact li img.map {
     margin-right: 15px;
