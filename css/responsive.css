@@ -278,6 +278,11 @@
         padding-bottom: 16px;
     }
 
+    .section-title-3 {
+
+        padding-left: 60px;
+    }
+
 }
 
 @media(max-width :360px )  
@@ -291,6 +296,10 @@
     }
     ul {
         padding-bottom: 16px;
+    }
+    .section-title-3 {
+
+        padding-left: 82px;
     }
 
 }
@@ -307,6 +316,11 @@
     ul {
         padding-bottom: 16px;
     }
+    .section-title-3 {
+
+        padding-left: 93px;
+    }
+
 }
 
 @media(max-width :960px )  
@@ -336,6 +350,11 @@
     ul {
         padding-bottom: 16px;
     }
+    .section-title-3 {
+
+        padding-left: 114px;
+    }
+
 
 }
 

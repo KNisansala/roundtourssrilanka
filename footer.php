@@ -5,7 +5,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="single-footer">
                     <div class="footer-title">
-                        <a href="#"><img src="images/logo/logo2.png" alt="">
+                        <a href="index.php"><img src="images/logo/logo2.png" alt="">
                              <!--<a href="#"><img src="images/logo/logo2.png" alt="">-->
                         </a>
                     </div>
