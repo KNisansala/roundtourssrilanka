@@ -13,8 +13,8 @@
         <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
         <!-- Favi icon -->
         <link rel="shortcut icon" type="image/x-icon" href="images/logo/logo2.png"
-        <!-- bootstrap v3.3.6 css -->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+              <!-- bootstrap v3.3.6 css -->
+              <link rel="stylesheet" href="css/bootstrap.min.css">
         <!-- animate css -->
         <link rel="stylesheet" href="css/animate.css">
         <!-- Button Hover animate css -->
@@ -120,8 +120,11 @@
                                     </a>
                                 </div>
                                 <div class="col-md-6 col-sm-12 col-xs-12 q">
-                                    <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset. Eu vel epicurei percipit, lobortis dignissim efficiendi te sit. </p>    
+                                    <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset... </p> 
+                                    <a href="Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
                                 </div>
+
+
 
 
                             </div><!--/ End Single Sidebar -->
@@ -134,9 +137,9 @@
                                         <img src="images/destination/surfing.jpg">
                                     </a>
                                 </div>
-                                <div class="col-md-6 col-sm-12 col-xs-12 q">
-                                    <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset. Eu vel epicurei percipit, lobortis dignissim efficiendi te sit. </p> 
-                                    </p> 
+                                  <div class="col-md-6 col-sm-12 col-xs-12 q">
+                                    <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset... </p> 
+                                    <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
                                 </div>
                             </div>
                             <!--/ End Single Sidebar -->
@@ -150,10 +153,10 @@
                                         <img src="images/destination/surfing.jpg">
                                     </a>
                                 </div>
-                                <div class="col-md-6 col-sm-12 col-xs-12 q">
-                                     <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset. Eu vel epicurei percipit, lobortis dignissim efficiendi te sit. </p> 
-                                    </p> 
-                                </div>                 
+                                  <div class="col-md-6 col-sm-12 col-xs-12 q">
+                                    <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset... </p> 
+                                    <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
+                                </div>                
                             </div>
                             <!--/ End Single Sidebar -->
 
@@ -256,7 +259,7 @@
                         },
                         1000: {
                             items: 1,
-                         
+
                         }
                     }
 

@@ -191,7 +191,7 @@ body {
     box-shadow: none;
 }
 .section-paddings {
-    padding: 70px 0;
+    padding-top:30px;
 }
 /*=====basce css end here=========*/
 /*============================== theme buttons css goes here ===============================*/
@@ -3761,6 +3761,7 @@ header {
 .tab-content .tour-description p {
     padding-bottom: 20px;
     line-height: 30px;
+    text-align: justify;
 }
 .tab-content .chosse-packge {
     padding-left: 12px;
@@ -4732,7 +4733,7 @@ viewdisidis{
   border: 1px solid #dddddd;
   margin-right: -36px;
   padding:38px;
-  padding-bottom: 655px;
+  
 }
 .panel-white2  .panel-heading {
   color: #333;
@@ -4758,6 +4759,12 @@ viewdisidis{
   background-color: #fff;
   border-color: #ddd;
 }
+.contmargin{
+    margin-bottom: 20px;
+}
 
+.logofooter
+{
+    
+}
 
-/*Gust comment style end here*/

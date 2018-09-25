@@ -69,21 +69,7 @@
                     <div class="col-md-12">
                         <div class="tabbable-menu background-opacity">
                             <ul class="tab-menu" id="myTab1">
-                                <li class="active">
-                                    <h6><a href="#hotels" data-easein="fadeIn">Hotels <img src="images/icon/hotel.png" alt=""></a></h6>
-                                </li>
-                                <li>
-                                    <h6><a href="#tour" data-easein="fadeIn">Tour <img src="images/icon/tour.png" alt=""></a></h6>
-                                </li>
-                                <li>
-                                    <h6><a href="#flights" data-easein="fadeIn">Flights <img src="images/icon/fly.png" alt=""></a></h6>
-                                </li>
-                                <li>
-                                    <h6><a href="#vehicles" data-easein="fadeIn">Vehicles <img src="images/icon/car.png" alt=""></a></h6>
-                                </li>
-                                <li>
-                                    <h6><a href="#ship" data-easein="fadeIn">Ship <img src="images/icon/ship.png" alt=""></a></h6>
-                                </li>
+
                             </ul>
                         </div>
                     </div>
@@ -96,34 +82,32 @@
                             <!-- hotels form -->
                             <div class="tab-pane active" id="hotels">
                                 <div class="hotels-form">
-                                    <form action="#" method="post">
-                                        <div class="hotel-input-2  input-b-2">
-                                            <input type="text" name="s" id="keyword" class="hotel-input-first" placeholder="Type Keyword">
-                                        </div>
+                                    <form action="booking.php" method="post">
+
                                         <div class="hotel-input-4 input-b-2">
                                             <select id='standard1' name='standard' class='custom-select'>
-                                                <option value=''>Select a Location</option>
-                                                <option value='Us'>America</option>
-                                                <option value='Canda'>Canada</option>
-                                                <option value='london'>London</option>
-                                                <option value='france'>Paris</option>
-                                                <option value='bd'>Bangladesh</option>
+                                                <option value=''>Select the Package</option>
+                                                <option value='Us'>2 days</option>
+                                                <option value='Canda'>3 days</option>
+                                                <option value='london'>4 days </option>
+                                                <option value='france'> 5 days</option>
+                                                <option value='bd'> 6 days</option>
                                             </select>
                                         </div>
-                                        <div class="hotel-input-1 input-s-2">
+                                        <div class="hotel-input-2 input-s-3">
                                             <input type="text" name="s" id="datepicker" class="hotel-input-first" placeholder="Check-In">
                                         </div>
-                                        <div class="hotel-input-1 input-s-2">
+                                        <div class="hotel-input-2 input-s-3">
                                             <input type="text" name="s" id="datepicker1" class="hotel-input-first" placeholder="Check-out">
                                         </div>
                                         <div class="hotel-input-1 input-s-2">
-                                            <input type="number" name="s" id="guest" class="hotel-input-first" placeholder="Guest">
+                                            <input type="number" name="s" id="guest" class="hotel-input-first" placeholder="Childrens">
                                         </div>
                                         <div class="hotel-input-1 input-s-2">
-                                            <input type="text" name="s" id="budget" class="hotel-input-first" placeholder="Budget">
+                                            <input type="number" name="s" id="guest" class="hotel-input-first" placeholder="Adults">
                                         </div>
                                         <div class="search-btn-2">
-                                            <button type="submit">Search</button>
+                                            <button type="submit">Book Now</button>
                                         </div>
                                     </form>
                                 </div>
@@ -254,7 +238,7 @@
                                             <input type="text" name="s" id="Location2" class="hotel-input-first" placeholder="Drop Location">
                                         </div>
                                         <div class="search-btn-2">
-                                            <button type="submit">Search</button>
+                                            <button type="submit"> Book </button>
                                         </div>
                                     </form>
                                 </div>
@@ -306,12 +290,11 @@
                         <div class="single-welcome-text">
                             <div class="section-title-version-2">
                                 <h2>Welcome to Round Tour Sri Lanka</h2>
-                                <h5>Lorem ipsum dolor sitp amet conspectetuer adipiscing elit sed diam nonummy nibh euismody tincidunt ut laoree.</h5>
+                                <h5>“Ayubowan” </h5>
                                 <div class="welcome-content">
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismody tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim adi minim veniam, qu nostrud exerci tation ullamcorperea commodo consequat utm euismod tincidunt ut laore dolore magna aliquam erat volutpat.</p>
-                                    <p>lorem ipsum dolor sit amet, consectetuer adipiscing elit yoused diam nonummy nibh euismody tincidunt ut laoreet dolore magna.</p>
-                                    <a href="#" class="read-more hvr-fade">Read More</a>
+                                    <p> Accompanied by palms clasped together with a gentle bow of the head is the way a visitor is greeted in Sri Lanka. It is hard to beat Sri Lanka’s charismatic multicultural, multi faceted ambience and magnificent setting in the tropics. The island of Sri Lanka is a land of great variety and texture, a visitor to Sri Lanka is exposed to an upbeat of colours and rhythms of many cultures, smiles of hospitality, spicy food, a nature lovers paradise with breath taking scenic landscapes and mosaic of lush green paddy fields, cooler climates and wildlife safaris from the moment he sets foot in Sri Lanka. An ideal holiday destination, though beach lovers will have to make some tough choices throughout most of the country, as the coastline seems endless, offering some of world’s finest tropical sandy beaches
+                                    </p>
+                                    <a href="about-us.php" class="read-more hvr-fade">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -339,7 +322,7 @@
 
                             <div class="package-details">
                                 <div class="package-places">
-                                    <h4> Festival </h4>
+                                    <a href="tour-packages.php"> <h4> Festival </h4></a> 
                                     <span> <i class="fa fa-clock-o"></i> 4 Days, 5 Nights Stay</span>
                                     <div class="details">
                                         <p><span>Included</span>: Flight Facility, 5 Star Hotel, Sightseeing, Transfers, Meals.</p>
@@ -361,7 +344,7 @@
                                 </div>
                             </div>
                             <div class="package-long-btn hvr-shutter-out-horizontal">
-                                <a href="#">Book Now</a>
+                                <a href="tour-packages.php"> <h4> View All </h4></a> 
                             </div>
                         </div>
 
@@ -372,7 +355,7 @@
                             </div>
                             <div class="package-details">
                                 <div class="package-places">
-                                    <h4>Wild</h4>
+                                    <a href="tour-packages.php">   <h4>Wild</h4> </a>
                                     <span> <i class="fa fa-clock-o"></i> 4 Days, 5 Nights Stay</span>
                                     <div class="details">
                                         <p><span>Included</span>: Flight Facility, 5 Star Hotel, Sightseeing, Transfers, Meals.</p>
@@ -394,7 +377,7 @@
                                 </div>
                             </div>
                             <div class="package-long-btn hvr-shutter-out-horizontal">
-                                <a href="#">Book Now</a>
+                                <a href="tour-packages.php"> View all </a>
                             </div>
                         </div>
 
@@ -406,7 +389,7 @@
 
                             <div class="package-details">
                                 <div class="package-places">
-                                    <h4> Down South </h4>
+                                    <a href="view-tour-packages.php"><h4> Down South </h4></a>
                                     <span> <i class="fa fa-clock-o"></i> 4 Days, 5 Nights Stay</span>
                                     <div class="details">
                                         <p><span>Included</span>: Flight Facility, 5 Star Hotel, Sightseeing, Transfers, Meals.</p>
@@ -428,7 +411,7 @@
                                 </div>
                             </div>
                             <div class="package-long-btn hvr-shutter-out-horizontal">
-                                <a href="#">Book Now</a>
+                                <a href="booking.php">View all</a>
                             </div>
                         </div>
 
@@ -462,7 +445,7 @@
                                 </div>
                             </div>
                             <div class="package-long-btn hvr-shutter-out-horizontal">
-                                <a href="#">Book Now</a>
+                                <a href="booking.php">View all</a>
                             </div>
                         </div>
                     </div> <!-- tour packages carosual end -->
@@ -487,71 +470,78 @@
                 <div class="destination-slider-active owl-carousel">
                     <div class="single-destination">
                         <figure>
-                            <a href="#"><img src="images/destination/de1.jpg" alt="">
+                            <a href="View-Destination.php"><img src="images/destination/de1.jpg" alt="">
                             </a>
                             <figcaption>
-                                <a href="#" class="travel-booking-btn hvr-shutter-out-horizontal">Read More</a>
+                                <a href="View-Destination.php" class="travel-booking-btn hvr-shutter-out-horizontal">Read More</a>
                             </figcaption>
                         </figure>
                         <div class="des-city">
-                            <a href="#"><i class="fa fa-map-marker"></i>Yala</a>
-                            <h4>Safari <span>3 Tours</span></h4>
+                            <a href="View-Destination.php"><i class="fa fa-map-marker"></i>Yala</a>
+                            <p>Lorem ipsum dolor sit amet consct .</p>
+                            <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
                         </div>
                     </div> <!-- single popular destination  end-->
 
                     <div class="single-destination">
                         <figure>
-                            <a href="#"><img src="images/destination/de2.jpg" alt="">
+                            <a href="View-Destination.php"><img src="images/destination/de2.jpg" alt="">
                             </a>
                             <figcaption>
-                                <a href="#" class="travel-booking-btn hvr-shutter-out-horizontal">Read More</a>
+                                <a href="View-Destination.php" class="travel-booking-btn hvr-shutter-out-horizontal">Read More</a>
                             </figcaption>
                         </figure>
                         <div class="des-city">
-                            <a href="#"><i class="fa fa-map-marker"></i>Dabulla</a>
-                            <h4>Dabulla Temple<span>5 Tours</span></h4>
+                            <a href="View-Destination.php"><i class="fa fa-map-marker"></i>Dabulla</a>
+                            <p>Lorem ipsum dolor sit amet consct .</p>
+                            <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
                         </div>
                     </div> <!-- single popular destination  end-->
 
                     <div class="single-destination">
                         <figure>
-                            <a href="#"><img src="images/destination/de3.jpg" alt="">
+                            <a href="View-Destination.php"><img src="images/destination/de3.jpg" alt="">
                             </a>
                             <figcaption>
-                                <a href="#" class="travel-booking-btn hvr-shutter-out-horizontal">Read More</a>
+                                <a href="View-Destination.php" class="travel-booking-btn hvr-shutter-out-horizontal">Read More</a>
                             </figcaption>
                         </figure>
                         <div class="des-city">
-                            <a href="#"><i class="fa fa-map-marker"></i>Hikkaduwa</a>
-                            <h4>Hikkaduwa Coral Reef<span>4 Tours</span></h4>
+                            <a href="View-Destination.php"><i class="fa fa-map-marker"></i>Hikkaduwa</a>
+
+                            <p>Lorem ipsum dolor sit amet consct .</p>
+                            <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
                         </div>
                     </div> <!-- single popular destination  end-->
 
                     <div class="single-destination">
                         <figure>
-                            <a href="#"><img src="images/destination/de4.jpg" alt="">
+                            <a href="View-Destination.php"><img src="images/destination/de4.jpg" alt="">
                             </a>
                             <figcaption>
-                                <a href="#" class="travel-booking-btn hvr-shutter-out-horizontal">Read More</a>
+                                <a href="View-Destination.php" class="travel-booking-btn hvr-shutter-out-horizontal">Read More</a>
                             </figcaption>
                         </figure>
                         <div class="des-city">
-                            <a href="#"><i class="fa fa-map-marker"></i>Galle</a>
-                            <h4>Galle Fort<span>3 Tours</span></h4>
+                            <a href="View-Destination.php"><i class="fa fa-map-marker"></i>Galle</a>
+
+                            <p>Lorem ipsum dolor sit amet consct .</p>
+                            <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
                         </div>
                     </div> <!-- single popular destination  end-->
 
                     <div class="single-destination">
                         <figure>
-                            <a href="#"><img src="images/destination/de5.jpg" alt="">
+                            <a href="View-Destination.php"><img src="images/destination/de5.jpg" alt="">
                             </a>
                             <figcaption>
-                                <a href="#" class="travel-booking-btn hvr-shutter-out-horizontal">Read More</a>
+                                <a href="View-Destination.php" class="travel-booking-btn hvr-shutter-out-horizontal">Read More</a>
                             </figcaption>
                         </figure>
                         <div class="des-city">
-                            <a href="#"><i class="fa fa-map-marker"></i>Arugam Bay</a>
-                            <h4>Surfing Point<span>5 Tours</span></h4>
+                            <a href="View-Destination.php"><i class="fa fa-map-marker"></i>Arugam Bay</a>
+                            <p>Lorem ipsum dolor sit amet consct .</p>
+                            <a href="Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
                         </div>
                     </div> <!-- single popular destination  end-->
 
@@ -564,7 +554,7 @@
                                 </div>-->
 
                 <div class="row">
-                    <a href="#" class="view-all hvr-fade">View All</a>
+                    <a href="View-Destination.php" class="view-all hvr-fade">View All</a>
                 </div>
             </div>
         </section> <!-- end popular destination-->
@@ -869,7 +859,7 @@
                 </div>
             </div>
         </section> 
-       
+
 
         <section class="section-paddings">
             <div class="container">
@@ -889,7 +879,7 @@
                             <figcaption>
                                 <a href="images/gallery/gal1.jpg"><i class="fa fa-pencil"></i></a>
                                 <h4>Place <span>Eiffel Tower</span></h4>
-                                <h4>Caption By: <span>Michel Jusi</span></h4>
+                               
                             </figcaption>
                         </figure>
                     </div> <!-- end single gallery -->
@@ -900,7 +890,7 @@
                             <figcaption>
                                 <a href="images/gallery/gal2L.jpg"><i class="fa fa-pencil"></i></a>
                                 <h4>Place <span>Eiffel Tower</span></h4>
-                                <h4>Caption By: <span>Michel Jusi</span></h4>
+                                
                             </figcaption>
                         </figure>
                     </div> <!-- end single gallery -->
@@ -911,7 +901,7 @@
                             <figcaption>
                                 <a href="images/gallery/gal3L.jpg"><i class="fa fa-pencil"></i></a>
                                 <h4>Place <span>Eiffel Tower</span></h4>
-                                <h4>Caption By: <span>Michel Jusi</span></h4>
+                               
                             </figcaption>
                         </figure>
                     </div> <!-- end single gallery -->
@@ -922,7 +912,7 @@
                             <figcaption>
                                 <a href="images/gallery/1.jpg"><i class="fa fa-pencil"></i></a>
                                 <h4>Place <span>Eiffel Tower</span></h4>
-                                <h4>Caption By: <span>Michel Jusi</span></h4>
+                                
                             </figcaption>
                         </figure>
                     </div> <!-- end single gallery -->
@@ -933,7 +923,7 @@
                             <figcaption>
                                 <a href="images/gallery/1.jpg"><i class="fa fa-pencil"></i></a>
                                 <h4>Place <span>Eiffel Tower</span></h4>
-                                <h4>Caption By: <span>Michel Jusi</span></h4>
+                                
                             </figcaption>
                         </figure>
                     </div> <!--single gallery end -->
@@ -944,7 +934,7 @@
                             <figcaption>
                                 <a href="images/gallery/1.jpg"><i class="fa fa-pencil"></i></a>
                                 <h4>Place <span>Eiffel Tower</span></h4>
-                                <h4>Caption By: <span>Michel Jusi</span></h4>
+                              
                             </figcaption>
                         </figure>
                     </div>
@@ -956,7 +946,7 @@
                             <figcaption>
                                 <a href="images/gallery/1.jpg"><i class="fa fa-pencil"></i></a>
                                 <h4>Place <span>Eiffel Tower</span></h4>
-                                <h4>Caption By: <span>Michel Jusi</span></h4>
+                               
                             </figcaption>
                         </figure>
                     </div> <!--single gallery end -->
@@ -967,7 +957,7 @@
                             <figcaption>
                                 <a href="images/gallery/1.jpg"><i class="fa fa-pencil"></i></a>
                                 <h4>Place <span>Eiffel Tower</span></h4>
-                                <h4>Caption By: <span>Michel Jusi</span></h4>
+                             
                             </figcaption>
                         </figure>
                     </div> <!--single gallery end -->

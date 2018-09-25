@@ -20,7 +20,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lfb tp-resizeme header-btn-2" data-x="center" data-hoffset="0" data-y="center" data-voffset="100" data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 8;"><a href="#" class="travel-primary-btn hvr-fade">Start Tour</a>
+                    <div class="tp-caption lfb tp-resizeme header-btn-2" data-x="center" data-hoffset="0" data-y="center" data-voffset="100" data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 8;">
                     </div>
                 </li>
                 <!-- end slider one -->
@@ -41,7 +41,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lfb tp-resizeme header-btn-2" data-x="center" data-hoffset="0" data-y="center" data-voffset="100" data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 8;"><a href="#" class="travel-primary-btn hvr-fade">Start Tour</a>
+                    <div class="tp-caption lfb tp-resizeme header-btn-2" data-x="center" data-hoffset="0" data-y="center" data-voffset="100" data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 8;">
                     </div>
                 </li>
             </ul> <!-- END SLIDES LIST -->

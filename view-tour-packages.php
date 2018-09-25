@@ -66,11 +66,11 @@
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="bredcrums-content">
-                                <h2>View Tour-Packages</h2>
+                                <h2>View Tour Packages</h2>
                                 <ul>
                                     <li><a href="index.php">Home</a></li>
-                                    <li><a href="tour-packages.php.php">Tour-Packages</a></li>
-                                    <li class="active"><a href="view-tour-packages.php">View Tour-Packages</a></li>
+                                    <li><a href="tour-packages.php.php">Tour Packages</a></li>
+                                    <li class="active"><a href="view-tour-packages.php">View Tour Packages</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -120,8 +120,12 @@
                                     </a>
                                 </div>
                                 <div class="col-md-6 col-sm-12 col-xs-12 q">
-                                    <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset. Eu vel epicurei percipit, lobortis dignissim efficiendi te sit. </p>    
-                                </div>
+                                    <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset... </p> 
+                                    <div class="read-more-btn">
+                                        <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
+                                    </div>
+
+                                </div> 
 
 
                             </div><!--/ End Single Sidebar -->
@@ -135,9 +139,12 @@
                                     </a>
                                 </div>
                                 <div class="col-md-6 col-sm-12 col-xs-12 q">
-                                    <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset. Eu vel epicurei percipit, lobortis dignissim efficiendi te sit. </p> 
-                                    </p> 
-                                </div>
+                                    <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset... </p> 
+                                    <div class="read-more-btn">
+                                        <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
+                                    </div>
+
+                                </div> 
                             </div>
                             <!--/ End Single Sidebar -->
 
@@ -151,8 +158,11 @@
                                     </a>
                                 </div>
                                 <div class="col-md-6 col-sm-12 col-xs-12 q">
-                                    <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset. Eu vel epicurei percipit, lobortis dignissim efficiendi te sit. </p> 
-                                    </p> 
+                                    <p>Lorem ipsum dolor sit amet, mel ut mazim fuisset... </p> 
+                                    <div class="read-more-btn">
+                                        <a href="View-Destination.php">Read More <i class="fa fa-angle-right"> </i></a>
+                                    </div>
+
                                 </div>                 
                             </div>
 
@@ -160,15 +170,15 @@
 
                     </div>
                     <div class="header-top-right text-right">
-                    <div class="col-md-6 col-xs-12 book-tab">
-                        <div class="book-btn">
-                            <a href="#">Booking Now</a>
+                        <div class="col-md-6 col-xs-12 book-tab">
+                            <div class="book-btn">
+                                <a href="#">Book Now</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                    
-                    
-                    
+
+
+
                 </div>
             </div>
         </section>

@@ -78,9 +78,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
-                        
+
                         <div class="section-title-3i">
-                               <h2>Comment</h2>
+                            <h2>Comment</h2>
                         </div>
 
                         <div class="panel panel-white2 post panel-shadow">
@@ -131,9 +131,10 @@
             <div class="section-title-3i">
                 <h2>All Reviews</h2>
             </div>
-            <section class="choose-trabble-version-2">
-                <div class="ImageBlock ImageBlock--switch">
-                    <div class="container-fluid">
+            <section class="choose-trabble-version-2 ">
+                <div class="ImageBlock ImageBlock--switch ">
+                    <div class="container-fluid contmargin">
+
                         <div class="row pt-100 pb-65">
                             <div class="col-md-10 col-sm-6 ImageBlock--switch-tab ">
 
