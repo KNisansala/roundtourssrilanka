@@ -64,7 +64,7 @@
                                 <h2>Package</h2>
                                 <ul>
                                     <li><a href="index-2.html">Home</a></li>
-                                    <li class="active"><a href="package-version-two.html">Package Style Two</a></li>
+                                    <li class="active"><a href="tour-packages.php">Tour Packages</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                             </div>
                             <div class="package-details">
                                 <div class="package-places">
-                                    <h4>Dubai – All Stunning Places</h4>
+                                    <a href="view-tour-packages.php">   <h4>Dubai – All Stunning Places</h4></a>    
                                     <span> <i class="fa fa-clock-o"></i> 4Days, 5Nights Stay</span>
                                     <div class="details">
                                         <p><span>Included</span>: Flight Facility, 5 Star Hotel, Sightseeing, Transfers, Meals.</p>
@@ -121,7 +121,7 @@
                             </div>
                             <div class="package-details">
                                 <div class="package-places">
-                                    <h4>Paris – All Stunning Places</h4>
+                                    <a href="view-tour-packages.php"> <h4>Paris – All Stunning Places</h4></a>
                                     <span> <i class="fa fa-clock-o"></i> 4Days, 5Nights Stay</span>
                                     <div class="details">
                                         <p><span>Included</span>: Flight Facility, 5 Star Hotel, Sightseeing, Transfers, Meals.</p>
@@ -156,7 +156,7 @@
                             </div>
                             <div class="package-details">
                                 <div class="package-places">
-                                    <h4>Italy – All Stunning Places</h4>
+                                    <a href="view-tour-packages.php">  <h4>Italy – All Stunning Places</h4></a>
                                     <span> <i class="fa fa-clock-o"></i> 4Days, 5Nights Stay</span>
                                     <div class="details">
                                         <p><span>Included</span>: Flight Facility, 5 Star Hotel, Sightseeing, Transfers, Meals.</p>
@@ -191,7 +191,7 @@
                             </div>
                             <div class="package-details">
                                 <div class="package-places">
-                                    <h4>Thailand – All Stunning Places</h4>
+                                    <a href="view-tour-packages.php"> <h4>Thailand – All Stunning Places</h4></a>
                                     <span> <i class="fa fa-clock-o"></i> 4Days, 5Nights Stay</span>
                                     <div class="details">
                                         <p><span>Included</span>: Flight Facility, 5 Star Hotel, Sightseeing, Transfers, Meals.</p>
@@ -226,7 +226,7 @@
                             </div>
                             <div class="package-details">
                                 <div class="package-places">
-                                    <h4>England – All Stunning Places</h4>
+                                    <a href="view-tour-packages.php">  <h4>England – All Stunning Places</h4></a>
                                     <span> <i class="fa fa-clock-o"></i> 4Days, 5Nights Stay</span>
                                     <div class="details">
                                         <p><span>Included</span>: Flight Facility, 5 Star Hotel, Sightseeing, Transfers, Meals.</p>
@@ -261,7 +261,7 @@
                             </div>
                             <div class="package-details">
                                 <div class="package-places">
-                                    <h4>India – All Stunning Places</h4>
+                                    <a href="view-tour-packages.php">  <h4>India – All Stunning Places</h4></a> 
                                     <span> <i class="fa fa-clock-o"></i> 4Days, 5Nights Stay</span>
                                     <div class="details">
                                         <p><span>Included</span>: Flight Facility, 5 Star Hotel, Sightseeing, Transfers, Meals.</p>
@@ -296,7 +296,7 @@
                             </div>
                             <div class="package-details">
                                 <div class="package-places">
-                                    <h4>England – All Stunning Places</h4>
+                                    <a href="view-tour-packages.php">  <h4>England – All Stunning Places</h4></a>
                                     <span> <i class="fa fa-clock-o"></i> 4Days, 5Nights Stay</span>
                                     <div class="details">
                                         <p><span>Included</span>: Flight Facility, 5 Star Hotel, Sightseeing, Transfers, Meals.</p>
@@ -331,7 +331,7 @@
                             </div>
                             <div class="package-details">
                                 <div class="package-places">
-                                    <h4>Paris – All Stunning Places</h4>
+                                    <a href="view-tour-packages.php">   <h4>Paris – All Stunning Places</h4></a>
                                     <span> <i class="fa fa-clock-o"></i> 4Days, 5Nights Stay</span>
                                     <div class="details">
                                         <p><span>Included</span>: Flight Facility, 5 Star Hotel, Sightseeing, Transfers, Meals.</p>
@@ -366,7 +366,7 @@
                             </div>
                             <div class="package-details">
                                 <div class="package-places">
-                                    <h4>India – All Stunning Places</h4>
+                                    <a href="view-tour-packages.php">     <h4>India – All Stunning Places</h4> </a>
                                     <span> <i class="fa fa-clock-o"></i> 4Days, 5Nights Stay</span>
                                     <div class="details">
                                         <p><span>Included</span>: Flight Facility, 5 Star Hotel, Sightseeing, Transfers, Meals.</p>

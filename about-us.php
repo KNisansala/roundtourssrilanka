@@ -13,8 +13,8 @@
         <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
         <!-- Favi icon -->
         <link rel="shortcut icon" type="image/x-icon" href="images/logo/logo2.png"
-        <!-- bootstrap v3.3.6 css -->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+              <!-- bootstrap v3.3.6 css -->
+              <link rel="stylesheet" href="css/bootstrap.min.css">
         <!-- animate css -->
         <link rel="stylesheet" href="css/animate.css">
         <!-- Button Hover animate css -->
@@ -62,12 +62,6 @@
                         <div class="col-sm-12">
                             <div class="bredcrums-content">
                                 <h2>About us</h2>
-                                <ul>
-                                    <li><a href="index-2.html">Home</a>
-                                    </li>
-                                    <li class="active"><a href="single-package.html">About Us</a>
-                                    </li>
-                                </ul>
                             </div>
                         </div>
                     </div>
@@ -96,7 +90,7 @@
                                         <!-- left content -->
                                         <div class="col-md-12 col-sm-12">
                                             <div class="tour-description">
-                                                <h4>Tour Description</h4>
+
                                                 <p>Tourist attractions people foreign sleep overnight housing. Gerimrany group discount tour operator. Airplane couchsurfing Moi scow ma ps uncharted luxury train guest tour operator German y busre laxation. Paris overnight Japan Tripit territory international carren tal Pacific outdoor Turkey. Country international to urist attractions mil es train Moscow guide. Japan horse riding money Bacel ona Buda pest yach t passport animals package China hitchh iking discover deal. Russia St. Petersburg Cuba creditcard bookin g discover Amst erdam flying. Freedom ani mals car rental booki ng. GEO Instagram group discount Brasil Germany gateway activ e lifestyle. Transit sailing kayak diary Europe chartering.</p>
                                             </div>
 
