@@ -77,43 +77,47 @@
         <section class="section-paddings">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-10 col-sm-12 col-xs-12">
-                        <div class="contact-title">
-                            <h2>Comment</h2>
+                    <div class="col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
+                        
+                        <div class="section-title-3i">
+                               <h2>Comment</h2>
                         </div>
-                        <div class="contact-form">
-                            <div id="contact">  
-                                <div id="message"></div> 						
-                                <!-- Contact Form -->
-                                <!--<form class="form" method="post" name="contactform" id="contactform">-->
-                                <div class="form-group">
-                                    <input type="text" placeholder="FullName" class="form-control input-validatar" name="txtFullName" id="txtFullName">
-                                    <span id="spanFullName"></span>
-                                </div>
-                                <div class="form-group">
-                                    <input type="text" placeholder="Country " class="form-control input-validatar" name="txtCountry" id="txtCountry">
-                                    <span id="spanCountry"></span>
-                                </div>
 
-                                <div class="form-group">
-                                    <textarea name="comment" rows="6" class="form-control input-validatar" placeholder="Comment" id="txtMessage"></textarea>
-                                    <span id="spanComments"></span>
+                        <div class="panel panel-white2 post panel-shadow">
+                            <div class="contact-form">
+                                <div id="contact">  
+                                    <div id="message"></div> 						
+                                    <!-- Contact Form -->
+                                    <!--<form class="form" method="post" name="contactform" id="contactform">-->
+                                    <div class="form-group">
+                                        <input type="text" placeholder="FullName" class="form-control input-validatar" name="txtFullName" id="txtFullName">
+                                        <span id="spanFullName"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" placeholder="Country " class="form-control input-validatar" name="txtCountry" id="txtCountry">
+                                        <span id="spanCountry"></span>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <textarea name="comment" rows="6" class="form-control input-validatar" placeholder="Comment" id="txtMessage"></textarea>
+                                        <span id="spanComments"></span>
+                                    </div>
+                                    <span><?php include("./contact-us-form/captchacode-widget.php"); ?></span>
+
+                                    <div class="form-group">
+                                        <input type="text" placeholder="Security Code" class="form-control input-validatar" name="captchacode" id="captchacode">
+                                        <span id="capspan"></span>
+                                    </div>
+
+                                    <img src="contact-us-form/img/checking.gif" id="checking"/>
+                                    <div class="form-group">
+                                        <button type="submit" id="btnSubmit" class="button primary"><i class="fa fa-send"></i>Post</button>
+                                    </div>
+
+                                    <div id="dismessage" align="center" class="msg-success"></div>
+
+                                    <!--</form>/ End Contact Form -->
                                 </div>
-                                <span><?php include("./contact-us-form/captchacode-widget.php"); ?></span>
-
-                                <div class="form-group">
-                                    <input type="text" placeholder="Security Code" class="form-control input-validatar" name="captchacode" id="captchacode">
-                                    <span id="capspan"></span>
-                                </div>
-
-                                <img src="contact-us-form/img/checking.gif" id="checking"/>
-                                <div class="form-group">
-                                    <button type="submit" id="btnSubmit" class="button primary"><i class="fa fa-send"></i>Post</button>
-                                </div>
-
-                                <div id="dismessage" align="center" class="msg-success"></div>
-
-                                <!--</form>/ End Contact Form -->
                             </div>
                         </div>
                     </div>
@@ -124,7 +128,7 @@
         <!-- Choose trabble version two start  -->
 
         <div class="container">
-            <div class="section-title-3">
+            <div class="section-title-3i">
                 <h2>All Reviews</h2>
             </div>
             <section class="choose-trabble-version-2">
@@ -148,7 +152,7 @@
                                                             <a href="#"><b>Ryan Haywood</b></a>
                                                             made a post.
                                                         </div>
-                                                        <h6 class="text-muted time">1 minute ago</h6>
+
                                                     </div>
                                                 </div> 
                                                 <div class="post-description"> 
@@ -167,7 +171,7 @@
                                                             <a href="#"><b>Ryan Haywood</b></a>
                                                             made a post.
                                                         </div>
-                                                        <h6 class="text-muted time">1 minute ago</h6>
+
                                                     </div>
                                                 </div> 
                                                 <div class="post-description"> 
@@ -187,7 +191,7 @@
                                                             <a href="#"><b>Ryan Haywood</b></a>
                                                             made a post.
                                                         </div>
-                                                        <h6 class="text-muted time">1 minute ago</h6>
+
                                                     </div>
                                                 </div> 
                                                 <div class="post-description"> 
@@ -211,64 +215,64 @@
 
 
 
-            <!-- footer start here -->
-            <?php
-            include './footer.php';
-            ?>
-            <!-- end footer -->
+        <!-- footer start here -->
+        <?php
+        include './footer.php';
+        ?>
+        <!-- end footer -->
 
-            <div class="to-top pos-rtive">
-                <a href="#"><i class = "fa fa-angle-up"></i></a>
-            </div> <!-- Scroll to top jump button end-->
+        <div class="to-top pos-rtive">
+            <a href="#"><i class = "fa fa-angle-up"></i></a>
+        </div> <!-- Scroll to top jump button end-->
 
-            <!-- ============================
-                    JavaScript Files
-            ============================= -->
-            <!-- jquery latest version -->
-            <script src="js/vendor/jquery-3.2.0.min.js"></script>
-            <!-- bootstrap js -->
-            <script src="js/bootstrap.min.js"></script>
-            <!-- owl.carousel js -->
-            <script src="js/owl.carousel.min.js"></script>
-            <!-- slick js -->
-            <script src="js/slick.min.js"></script>
-            <!-- meanmenu js -->
-            <script src="js/jquery.meanmenu.min.js"></script>
-            <!-- jquery-ui js -->
-            <script src="js/jquery-ui.min.js"></script>
-            <!-- wow js -->
-            <script src="js/wow.min.js"></script>
-            <!-- counter js -->
-            <script src="js/jquery.counterup.min.js"></script>
-            <!-- Countdown js -->
-            <script src="js/jquery.countdown.min.js"></script>
-            <!-- waypoints js -->
-            <script src="js/jquery.waypoints.min.js"></script>
-            <!-- Isotope js -->
-            <script src="js/isotope.pkgd.min.js"></script>
-            <!-- magnific js -->
-            <script src="js/jquery.magnific-popup.min.js"></script>
-            <!-- Image loaded js -->
-            <script src="js/imagesloaded.pkgd.min.js"></script>
-            <!-- chossen js -->
-            <script src="js/chosen.jquery.min.js"></script>
-            <!-- Jquery plugin -->
-            <script src="js/plugins.js"></script>
-            <!-- select2 js plugin -->
-            <script src="js/select2.min.js"></script>    
-            <script src="js/colors.js"></script>
-            <!-- Jquery plugin -->
-            <script src="js/jquery-customselect.js"></script>
-            <!-- google map api -->
-            <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCIW0B_E3g-Yg533xy3yF0WHThi-mFvSNQ"></script>-->
-            <!-- map js -->
-            <!--<script src="js/google-map.js"></script>-->    
-            <!-- main js -->
-            <script src="js/custom.js"></script>
+        <!-- ============================
+                JavaScript Files
+        ============================= -->
+        <!-- jquery latest version -->
+        <script src="js/vendor/jquery-3.2.0.min.js"></script>
+        <!-- bootstrap js -->
+        <script src="js/bootstrap.min.js"></script>
+        <!-- owl.carousel js -->
+        <script src="js/owl.carousel.min.js"></script>
+        <!-- slick js -->
+        <script src="js/slick.min.js"></script>
+        <!-- meanmenu js -->
+        <script src="js/jquery.meanmenu.min.js"></script>
+        <!-- jquery-ui js -->
+        <script src="js/jquery-ui.min.js"></script>
+        <!-- wow js -->
+        <script src="js/wow.min.js"></script>
+        <!-- counter js -->
+        <script src="js/jquery.counterup.min.js"></script>
+        <!-- Countdown js -->
+        <script src="js/jquery.countdown.min.js"></script>
+        <!-- waypoints js -->
+        <script src="js/jquery.waypoints.min.js"></script>
+        <!-- Isotope js -->
+        <script src="js/isotope.pkgd.min.js"></script>
+        <!-- magnific js -->
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <!-- Image loaded js -->
+        <script src="js/imagesloaded.pkgd.min.js"></script>
+        <!-- chossen js -->
+        <script src="js/chosen.jquery.min.js"></script>
+        <!-- Jquery plugin -->
+        <script src="js/plugins.js"></script>
+        <!-- select2 js plugin -->
+        <script src="js/select2.min.js"></script>    
+        <script src="js/colors.js"></script>
+        <!-- Jquery plugin -->
+        <script src="js/jquery-customselect.js"></script>
+        <!-- google map api -->
+        <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCIW0B_E3g-Yg533xy3yF0WHThi-mFvSNQ"></script>-->
+        <!-- map js -->
+        <!--<script src="js/google-map.js"></script>-->    
+        <!-- main js -->
+        <script src="js/custom.js"></script>
 
-            <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 
-            <script src="contact-us-form/scripts.js" type="text/javascript"></script>
+        <script src="contact-us-form/scripts.js" type="text/javascript"></script>
     </body>
 
     <!-- Mirrored from getnajmul.com/theme/trabble/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 07 Sep 2018 02:32:14 GMT -->

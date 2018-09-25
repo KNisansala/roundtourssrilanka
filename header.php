@@ -16,7 +16,7 @@
                 <div class="header-top-right text-right">
                     <div class="col-md-3 col-xs-12 book-tab">
                         <div class="book-btn">
-                            <a href="#">Booking Now</a>
+                            <a href="booking.php">Booking Now</a>
                         </div>
                     </div>
                 </div>

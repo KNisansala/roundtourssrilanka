@@ -283,8 +283,32 @@
         padding-left: 60px;
     }
 
-}
 
+    .panel-white2 {
+
+        margin-right: 6px;
+        padding-bottom: 53px;
+
+    }
+    .section-title-3i {
+        z-index: 33;
+        position: relative;
+        padding-left: 0px;
+        text-align: center
+    }
+
+    .panel-white {
+
+        margin-right: -1px;
+    }
+    .panel-white3 {
+        border: 1px solid #dddddd;
+        margin-right: 6px;
+        padding:38px;
+        padding-bottom: 912px;
+    }
+
+}
 @media(max-width :360px )  
 {
     .title-line-12 h2{
@@ -300,6 +324,30 @@
     .section-title-3 {
 
         padding-left: 82px;
+    }
+    panel-white2 {
+
+        margin-right: 4px;
+    }
+    .section-title-3 {
+
+        padding-left: 60px;
+    }
+    .section-title-3i {
+        z-index: 33;
+        position: relative;
+        padding-left: 0px;
+        text-align: center
+    }
+    .panel-white {
+
+        margin-right: -1px;
+    }
+    .panel-white3 {
+        border: 1px solid #dddddd;
+        margin-right: 6px;
+        padding:38px;
+        padding-bottom: 912px;
     }
 
 }
@@ -317,10 +365,49 @@
         padding-bottom: 16px;
     }
     .section-title-3 {
-
         padding-left: 93px;
     }
+    .panel-white {
 
+        margin-right: -9px;
+    }
+    .panel-white1 {
+        border: 1px solid #dddddd;
+        margin-right: -6px;
+        padding:38px;
+        padding-bottom: 13px;
+    }
+    .panel-white1  .panel-heading {
+        color: #333;
+        background-color: #fff;
+        border-color: #ddd;
+    }
+    .panel-white1  .panel-footer {
+        background-color: #fff;
+        border-color: #ddd;
+    }
+
+    .panel-white2 {
+        border: 1px solid #dddddd;
+        margin-right: 7px;
+        padding:38px;
+        padding-bottom: 65px;
+    }
+    .panel-white2  .panel-heading {
+        color: #333;
+        background-color: #fff;
+        border-color: #ddd;
+    }
+    .panel-white2  .panel-footer {
+        background-color: #fff;
+        border-color: #ddd;
+    }
+    .panel-white3 {
+        border: 1px solid #dddddd;
+        margin-right: 6px;
+        padding:38px;
+        padding-bottom: 912px;
+    }
 }
 
 @media(max-width :960px )  
@@ -355,7 +442,51 @@
         padding-left: 114px;
     }
 
+    .panel-white1 {
+        border: 1px solid #dddddd;
+        margin-right: -36px;
+        padding:38px;
+        padding-bottom: 13px;
+    }
+    .panel-white1  .panel-heading {
+        color: #333;
+        background-color: #fff;
+        border-color: #ddd;
+    }
+    .panel-white1  .panel-footer {
+        background-color: #fff;
+        border-color: #ddd;
+    }
+
+    .panel-white2 {
+        border: 1px solid #dddddd;
+        margin-right: 6px;
+        padding:38px;
+        padding-bottom: 65px;
+    }
+    .panel-white2  .panel-heading {
+        color: #333;
+        background-color: #fff;
+        border-color: #ddd;
+    }
+    .panel-white2  .panel-footer {
+        background-color: #fff;
+        border-color: #ddd;
+
+    }
+    .panel-white {
+
+        margin-right: 5px;
+
+    }
+    .panel-white3 {
+        border: 1px solid #dddddd;
+        margin-right: 6px;
+        padding:38px;
+        padding-bottom: 912px;
+    }
 
 }
+
 
 /*resposive setting end here*/
