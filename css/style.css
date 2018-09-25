@@ -742,6 +742,14 @@ header {
     position: relative;
     padding-left: 30px;
 }
+.section-title-3i {
+    z-index: 33;
+    position: relative;
+    padding-left: 30px;
+    text-align: center
+}
+
+
 .section-title-3 h2 {
     background-color: transparent;
     background-color: transparent;
@@ -4020,7 +4028,7 @@ aside .booking-form .form-group .booking-confirm {
     position: relative;
 }
 .contact-form .form-group:last-child {
-    margin-bottom: 0;
+    margin-bottom: 21px;
 }
 .contact-form .form-group input, .contact-form .form-group textarea {
     width: 100%;
@@ -4702,6 +4710,53 @@ viewdisidis{
 }
 .post .post-footer .comments-list .comment > .comments-list {
   margin-left: 50px;
+}
+
+.panel-white1 {
+  border: 1px solid #dddddd;
+  margin-right: -36px;
+  padding:38px;
+  padding-bottom: 13px;
+}
+.panel-white1  .panel-heading {
+  color: #333;
+  background-color: #fff;
+  border-color: #ddd;
+}
+.panel-white1  .panel-footer {
+  background-color: #fff;
+  border-color: #ddd;
+}
+
+.panel-white2 {
+  border: 1px solid #dddddd;
+  margin-right: -36px;
+  padding:38px;
+  padding-bottom: 655px;
+}
+.panel-white2  .panel-heading {
+  color: #333;
+  background-color: #fff;
+  border-color: #ddd;
+}
+.panel-white2  .panel-footer {
+  background-color: #fff;
+  border-color: #ddd;
+}
+.panel-white3 {
+  border: 1px solid #dddddd;
+  margin-right: -36px;
+  padding:38px;
+  padding-bottom: 655px;
+}
+.panel-white3  .panel-heading {
+  color: #333;
+  background-color: #fff;
+  border-color: #ddd;
+}
+.panel-white3  .panel-footer {
+  background-color: #fff;
+  border-color: #ddd;
 }
 
 
