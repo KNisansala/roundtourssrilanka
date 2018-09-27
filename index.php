@@ -50,7 +50,6 @@
         <div id="preloader">
             <div id="status">&nbsp;</div>
         </div>	
-
         <!-- header area start here -->
         <?php
         include './header.php';
@@ -87,11 +86,11 @@
                                         <div class="hotel-input-4 input-b-2">
                                             <select id='standard1' name='standard' class='custom-select'>
                                                 <option value=''>Select the Package</option>
-                                                <option value='Us'>2 days</option>
-                                                <option value='Canda'>3 days</option>
-                                                <option value='london'>4 days </option>
-                                                <option value='france'> 5 days</option>
-                                                <option value='bd'> 6 days</option>
+                                                <option value='2day'>2 days</option>
+                                                <option value='3day'>3 days</option>
+                                                <option value='4day'>4 days </option>
+                                                <option value='5day'> 5 days</option>
+                                                <option value='6day'> 6 days</option>
                                             </select>
                                         </div>
                                         <div class="hotel-input-2 input-s-3">
